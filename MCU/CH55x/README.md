@@ -30,7 +30,7 @@
 - [CH552 Datasheet - English](http://www.wch-ic.com/downloads/CH552DS1_PDF.html)
 - [CH552 Datasheet - Chinese](https://www.wch.cn/downloads/CH552DS1_PDF.html)
 - [CH554 Datasheet - English](http://wch-ic.com/downloads/CH554DS1_PDF.html)
-- [CH552 Datasheet - Chinese](https://www.wch.cn/downloads/CH554DS1_PDF.html)
+- [CH554 Datasheet - Chinese](https://www.wch.cn/downloads/CH554DS1_PDF.html)
 
 ### Development Environment Setup
 
