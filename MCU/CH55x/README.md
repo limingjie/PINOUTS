@@ -76,5 +76,6 @@
    ```shell
     cd ch554_sdcc/examples
     make
+    cd blink
     make flash
     ```
