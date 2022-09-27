@@ -7,8 +7,8 @@
    viewBox="0 0 150 60"
    version="1.1"
    id="svg5"
-   inkscape:version="1.2.1 (9c6d41e4, 2022-07-14)"
-   sodipodi:docname="CH552 Pinout.svg"
+   inkscape:version="1.2.1 (9c6d41e, 2022-07-14)"
+   sodipodi:docname="CH552G_CH554G_Pinout.Origin.svg"
    inkscape:export-filename="CH552 Pinout.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300"
@@ -27,13 +27,13 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="1.6245417"
-     inkscape:cx="283.46457"
-     inkscape:cy="113.57049"
+     inkscape:zoom="1.7886767"
+     inkscape:cx="256.05522"
+     inkscape:cy="141.44535"
      inkscape:window-width="1440"
      inkscape:window-height="847"
-     inkscape:window-x="1366"
-     inkscape:window-y="149"
+     inkscape:window-x="1920"
+     inkscape:window-y="127"
      inkscape:window-maximized="0"
      inkscape:current-layer="g9134"
      inkscape:lockguides="false" />
@@ -250,1581 +250,6 @@
              x="18.604649"
              y="15.898187" /></text>
         <g
-           id="g7616"
-           transform="translate(0,2.3999951)">
-          <g
-             id="g6823"
-             transform="matrix(3,0,0,3,0,9.6000051)">
-            <rect
-               style="fill:#000004;stroke-width:2"
-               id="rect111"
-               width="3.9000001"
-               height="10"
-               x="-26.950001"
-               y="-11.045001"
-               ry="0.35553971"
-               transform="scale(-1)" />
-            <path
-               d="M 23.761011,2.1045169 V 2.384299 l 1.033642,0.4300354 -1.033642,0.4300355 V 3.524152 h 0.544022 c -0.429294,0.3153999 -0.543222,0.6266125 -0.544022,1.139853 h 1.075091 v 0.860071 h -1.075091 v 0.279782 h 2.49991 V 5.524076 H 25.18583 V 4.664005 h 1.075091 c 0.0043,-0.651058 -0.151039,-0.9085973 -0.544022,-1.139853 h 0.544022 V 3.2443699 H 24.622379 L 25.18583,2.9542255 25.183304,2.6744434 24.622379,2.384299 h 1.638542 V 2.1045169 Z m 0.376929,2.279706 c -0.0076,-0.2428369 0.230178,-0.5940683 0.588062,-0.725361 0.116576,-0.040115 0.40784,-0.049883 0.569928,0 0.423908,0.1300797 0.594533,0.4459741 0.60231,0.725361 z"
-               id="path115"
-               sodipodi:nodetypes="ccccccccccccccccccccccccccccccc"
-               style="fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.00115854" />
-            <text
-               xml:space="preserve"
-               style="font-weight:bold;font-size:1.35092px;font-family:'Iosevka Fixed';-inkscape-font-specification:'Iosevka Fixed Bold';fill:#646464;fill-opacity:1;stroke-width:0.226928"
-               x="6.2533264"
-               y="-25.2775"
-               id="text1111"
-               transform="rotate(90)"><tspan
-                 sodipodi:role="line"
-                 id="tspan1109"
-                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Arial Narrow';-inkscape-font-specification:'Arial Narrow Bold';stroke-width:0.226928"
-                 x="6.2533264"
-                 y="-25.2775">CH552G</tspan></text>
-            <text
-               xml:space="preserve"
-               style="font-weight:bold;font-size:1.03188px;font-family:'Iosevka Fixed';-inkscape-font-specification:'Iosevka Fixed Bold';fill:#646464;fill-opacity:1;stroke-width:0.226928"
-               x="6.2654839"
-               y="-23.763102"
-               id="text1111-3"
-               transform="rotate(90)"><tspan
-                 sodipodi:role="line"
-                 id="tspan1109-3"
-                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.03188px;font-family:'Arial Narrow';-inkscape-font-specification:'Arial Narrow Bold';stroke-width:0.226928"
-                 x="6.2654839"
-                 y="-23.763102">405815815</tspan></text>
-            <circle
-               style="fill:#646464;fill-opacity:1;stroke-width:2"
-               id="path1215"
-               cx="-23.651609"
-               cy="-1.6466126"
-               r="0.30138811"
-               transform="scale(-1)" />
-            <rect
-               style="fill:#646464;fill-opacity:1;stroke-width:1.91391"
-               id="rect1269"
-               width="0.18345365"
-               height="4.1999998"
-               x="-24.974617"
-               y="-10.500749"
-               ry="0.083999999"
-               transform="scale(-1)" />
-            <g
-               id="g6763">
-              <rect
-                 style="fill:#969696;fill-opacity:1;stroke-width:2"
-                 id="rect1321"
-                 width="0.44999999"
-                 height="1.05"
-                 x="1.3749986"
-                 y="-23.049999"
-                 ry="0"
-                 transform="rotate(90)" />
-              <text
-                 xml:space="preserve"
-                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.529167px;font-family:'Arial Narrow';-inkscape-font-specification:'Arial Narrow Bold';fill:#646464;fill-opacity:1;stroke-width:2"
-                 x="22.42181"
-                 y="1.7944679"
-                 id="text1325"><tspan
-                   sodipodi:role="line"
-                   id="tspan1323"
-                   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.529167px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#000000;fill-opacity:1;stroke-width:2"
-                   x="22.42181"
-                   y="1.7944679">1</tspan></text>
-              <rect
-                 style="fill:#969696;fill-opacity:1;stroke-width:2"
-                 id="rect1644"
-                 width="0.44999999"
-                 height="1.05"
-                 x="2.6449995"
-                 y="-23.049999"
-                 ry="0"
-                 transform="rotate(90)" />
-              <text
-                 xml:space="preserve"
-                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.529167px;font-family:'Arial Narrow';-inkscape-font-specification:'Arial Narrow Bold';fill:#646464;fill-opacity:1;stroke-width:2"
-                 x="22.392178"
-                 y="3.0644684"
-                 id="text1648"><tspan
-                   sodipodi:role="line"
-                   id="tspan1646"
-                   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.529167px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#000000;fill-opacity:1;stroke-width:2"
-                   x="22.392178"
-                   y="3.0644684">2</tspan></text>
-              <rect
-                 style="fill:#969696;fill-opacity:1;stroke-width:2"
-                 id="rect1652"
-                 width="0.44999999"
-                 height="1.05"
-                 x="3.915"
-                 y="-23.049999"
-                 ry="0"
-                 transform="rotate(90)" />
-              <text
-                 xml:space="preserve"
-                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.529167px;font-family:'Arial Narrow';-inkscape-font-specification:'Arial Narrow Bold';fill:#646464;fill-opacity:1;stroke-width:2"
-                 x="22.391119"
-                 y="4.3344688"
-                 id="text1656"><tspan
-                   sodipodi:role="line"
-                   id="tspan1654"
-                   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.529167px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#000000;fill-opacity:1;stroke-width:2"
-                   x="22.391119"
-                   y="4.3344688">3</tspan></text>
-              <rect
-                 style="fill:#969696;fill-opacity:1;stroke-width:2"
-                 id="rect1660"
-                 width="0.44999999"
-                 height="1.05"
-                 x="5.1849995"
-                 y="-23.049999"
-                 ry="0"
-                 transform="rotate(90)" />
-              <text
-                 xml:space="preserve"
-                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.529167px;font-family:'Arial Narrow';-inkscape-font-specification:'Arial Narrow Bold';fill:#646464;fill-opacity:1;stroke-width:2"
-                 x="22.394823"
-                 y="5.6044683"
-                 id="text1664"><tspan
-                   sodipodi:role="line"
-                   id="tspan1662"
-                   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.529167px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#000000;fill-opacity:1;stroke-width:2"
-                   x="22.394823"
-                   y="5.6044683">4</tspan></text>
-              <rect
-                 style="fill:#969696;fill-opacity:1;stroke-width:2"
-                 id="rect1668"
-                 width="0.44999999"
-                 height="1.05"
-                 x="6.4550009"
-                 y="-23.049999"
-                 ry="0"
-                 transform="rotate(90)" />
-              <text
-                 xml:space="preserve"
-                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.529167px;font-family:'Arial Narrow';-inkscape-font-specification:'Arial Narrow Bold';fill:#646464;fill-opacity:1;stroke-width:2"
-                 x="22.390854"
-                 y="6.8744688"
-                 id="text1672"><tspan
-                   sodipodi:role="line"
-                   id="tspan1670"
-                   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.529167px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#000000;fill-opacity:1;stroke-width:2"
-                   x="22.390854"
-                   y="6.8744688">5</tspan></text>
-              <rect
-                 style="fill:#969696;fill-opacity:1;stroke-width:2"
-                 id="rect1676"
-                 width="0.44999999"
-                 height="1.05"
-                 x="7.7249994"
-                 y="-23.049999"
-                 ry="0"
-                 transform="rotate(90)" />
-              <text
-                 xml:space="preserve"
-                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.529167px;font-family:'Arial Narrow';-inkscape-font-specification:'Arial Narrow Bold';fill:#646464;fill-opacity:1;stroke-width:2"
-                 x="22.392706"
-                 y="8.1444683"
-                 id="text1680"><tspan
-                   sodipodi:role="line"
-                   id="tspan1678"
-                   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.529167px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#000000;fill-opacity:1;stroke-width:2"
-                   x="22.392706"
-                   y="8.1444683">6</tspan></text>
-              <rect
-                 style="fill:#969696;fill-opacity:1;stroke-width:2"
-                 id="rect1684"
-                 width="0.44999999"
-                 height="1.05"
-                 x="8.9949999"
-                 y="-23.049999"
-                 ry="0"
-                 transform="rotate(90)" />
-              <text
-                 xml:space="preserve"
-                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.529167px;font-family:'Arial Narrow';-inkscape-font-specification:'Arial Narrow Bold';fill:#646464;fill-opacity:1;stroke-width:2"
-                 x="22.392706"
-                 y="9.4144688"
-                 id="text1688"><tspan
-                   sodipodi:role="line"
-                   id="tspan1686"
-                   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.529167px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#000000;fill-opacity:1;stroke-width:2"
-                   x="22.392706"
-                   y="9.4144688">7</tspan></text>
-              <rect
-                 style="fill:#969696;fill-opacity:1;stroke-width:2"
-                 id="rect1692"
-                 width="0.44999999"
-                 height="1.05"
-                 x="10.265"
-                 y="-23.049999"
-                 ry="0"
-                 transform="rotate(90)" />
-              <text
-                 xml:space="preserve"
-                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.529167px;font-family:'Arial Narrow';-inkscape-font-specification:'Arial Narrow Bold';fill:#646464;fill-opacity:1;stroke-width:2"
-                 x="22.392706"
-                 y="10.684469"
-                 id="text1696"><tspan
-                   sodipodi:role="line"
-                   id="tspan1694"
-                   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.529167px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#000000;fill-opacity:1;stroke-width:2"
-                   x="22.392706"
-                   y="10.684469">8</tspan></text>
-            </g>
-            <g
-               id="g6661">
-              <rect
-                 style="fill:#969696;fill-opacity:1;stroke-width:2"
-                 id="rect1321-9"
-                 width="0.44999999"
-                 height="1.05"
-                 x="1.3750001"
-                 y="-28"
-                 ry="0"
-                 transform="rotate(90)" />
-              <text
-                 xml:space="preserve"
-                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.529167px;font-family:'Arial Narrow';-inkscape-font-specification:'Arial Narrow Bold';fill:#646464;fill-opacity:1;stroke-width:2"
-                 x="27.209621"
-                 y="1.7944695"
-                 id="text1325-0"><tspan
-                   sodipodi:role="line"
-                   id="tspan1323-7"
-                   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.529167px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#000000;fill-opacity:1;stroke-width:2"
-                   x="27.209621"
-                   y="1.7944695">16</tspan></text>
-              <rect
-                 style="fill:#969696;fill-opacity:1;stroke-width:2"
-                 id="rect1644-6"
-                 width="0.44999999"
-                 height="1.05"
-                 x="2.6450016"
-                 y="-28"
-                 ry="0"
-                 transform="rotate(90)" />
-              <text
-                 xml:space="preserve"
-                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.529167px;font-family:'Arial Narrow';-inkscape-font-specification:'Arial Narrow Bold';fill:#646464;fill-opacity:1;stroke-width:2"
-                 x="27.209621"
-                 y="3.0644701"
-                 id="text1648-8"><tspan
-                   sodipodi:role="line"
-                   id="tspan1646-3"
-                   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.529167px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#000000;fill-opacity:1;stroke-width:2"
-                   x="27.209621"
-                   y="3.0644701">15</tspan></text>
-              <rect
-                 style="fill:#969696;fill-opacity:1;stroke-width:2"
-                 id="rect1652-8"
-                 width="0.44999999"
-                 height="1.05"
-                 x="3.9150016"
-                 y="-28"
-                 ry="0"
-                 transform="rotate(90)" />
-              <text
-                 xml:space="preserve"
-                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.529167px;font-family:'Arial Narrow';-inkscape-font-specification:'Arial Narrow Bold';fill:#646464;fill-opacity:1;stroke-width:2"
-                 x="27.211739"
-                 y="4.3344703"
-                 id="text1656-6"><tspan
-                   sodipodi:role="line"
-                   id="tspan1654-1"
-                   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.529167px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#000000;fill-opacity:1;stroke-width:2"
-                   x="27.211739"
-                   y="4.3344703">14</tspan></text>
-              <rect
-                 style="fill:#969696;fill-opacity:1;stroke-width:2"
-                 id="rect1660-9"
-                 width="0.44999999"
-                 height="1.05"
-                 x="5.1850009"
-                 y="-28"
-                 ry="0"
-                 transform="rotate(90)" />
-              <text
-                 xml:space="preserve"
-                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.529167px;font-family:'Arial Narrow';-inkscape-font-specification:'Arial Narrow Bold';fill:#646464;fill-opacity:1;stroke-width:2"
-                 x="27.207504"
-                 y="5.6044698"
-                 id="text1664-6"><tspan
-                   sodipodi:role="line"
-                   id="tspan1662-7"
-                   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.529167px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#000000;fill-opacity:1;stroke-width:2"
-                   x="27.207504"
-                   y="5.6044698">13</tspan></text>
-              <rect
-                 style="fill:#969696;fill-opacity:1;stroke-width:2"
-                 id="rect1668-8"
-                 width="0.44999999"
-                 height="1.05"
-                 x="6.4550014"
-                 y="-28"
-                 ry="0"
-                 transform="rotate(90)" />
-              <text
-                 xml:space="preserve"
-                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.529167px;font-family:'Arial Narrow';-inkscape-font-specification:'Arial Narrow Bold';fill:#646464;fill-opacity:1;stroke-width:2"
-                 x="27.210682"
-                 y="6.8744702"
-                 id="text1672-9"><tspan
-                   sodipodi:role="line"
-                   id="tspan1670-7"
-                   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.529167px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#000000;fill-opacity:1;stroke-width:2"
-                   x="27.210682"
-                   y="6.8744702">12</tspan></text>
-              <rect
-                 style="fill:#969696;fill-opacity:1;stroke-width:2"
-                 id="rect1676-5"
-                 width="0.44999999"
-                 height="1.05"
-                 x="7.7250009"
-                 y="-28"
-                 ry="0"
-                 transform="rotate(90)" />
-              <text
-                 xml:space="preserve"
-                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.529167px;font-family:'Arial Narrow';-inkscape-font-specification:'Arial Narrow Bold';fill:#646464;fill-opacity:1;stroke-width:2"
-                 x="27.239521"
-                 y="8.1444702"
-                 id="text1680-5"><tspan
-                   sodipodi:role="line"
-                   id="tspan1678-2"
-                   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.529167px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#000000;fill-opacity:1;stroke-width:2"
-                   x="27.239521"
-                   y="8.1444702">11</tspan></text>
-              <rect
-                 style="fill:#969696;fill-opacity:1;stroke-width:2"
-                 id="rect1684-4"
-                 width="0.44999999"
-                 height="1.05"
-                 x="8.9950018"
-                 y="-28"
-                 ry="0"
-                 transform="rotate(90)" />
-              <text
-                 xml:space="preserve"
-                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.529167px;font-family:'Arial Narrow';-inkscape-font-specification:'Arial Narrow Bold';fill:#646464;fill-opacity:1;stroke-width:2"
-                 x="27.209621"
-                 y="9.4144707"
-                 id="text1688-9"><tspan
-                   sodipodi:role="line"
-                   id="tspan1686-4"
-                   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.529167px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#000000;fill-opacity:1;stroke-width:2"
-                   x="27.209621"
-                   y="9.4144707">10</tspan></text>
-              <rect
-                 style="fill:#969696;fill-opacity:1;stroke-width:2"
-                 id="rect1692-4"
-                 width="0.44999999"
-                 height="1.05"
-                 x="10.265002"
-                 y="-28"
-                 ry="0"
-                 transform="rotate(90)" />
-              <text
-                 xml:space="preserve"
-                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.529167px;font-family:'Arial Narrow';-inkscape-font-specification:'Arial Narrow Bold';fill:#646464;fill-opacity:1;stroke-width:2"
-                 x="27.342709"
-                 y="10.684471"
-                 id="text1696-7"><tspan
-                   sodipodi:role="line"
-                   id="tspan1694-9"
-                   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.529167px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#000000;fill-opacity:1;stroke-width:2"
-                   x="27.342709"
-                   y="10.684471">9</tspan></text>
-            </g>
-          </g>
-          <g
-             id="g7010"
-             transform="matrix(3,0,0,3,0,9.6000051)">
-            <rect
-               style="fill:#000000;fill-opacity:1;stroke-width:1.71369"
-               id="rect2654-2-2"
-               width="18"
-               height="0.15000001"
-               x="28"
-               y="5.335001"
-               ry="0" />
-            <rect
-               style="fill:#000000;fill-opacity:1;stroke-width:1.71369"
-               id="rect2654-5-1"
-               width="18"
-               height="0.15000001"
-               x="28"
-               y="6.6050014"
-               ry="0" />
-            <rect
-               style="fill:#000000;fill-opacity:1;stroke-width:1.56438"
-               id="rect2654-1-8"
-               width="15"
-               height="0.15000001"
-               x="28"
-               y="7.875001"
-               ry="0" />
-            <rect
-               style="fill:#000000;fill-opacity:1;stroke-width:0.699611"
-               id="rect2654-2-2-5"
-               width="3"
-               height="0.15000001"
-               x="28"
-               y="1.5250001"
-               ry="0" />
-            <rect
-               style="fill:#000000;fill-opacity:1;stroke-width:0.699611"
-               id="rect2654-5-1-9"
-               width="3"
-               height="0.15000001"
-               x="28"
-               y="2.7950017"
-               ry="0" />
-            <rect
-               style="fill:#000000;fill-opacity:1;stroke-width:0.766386"
-               id="rect2654-1-8-0"
-               width="3"
-               height="0.18000001"
-               x="28"
-               y="4.0500016"
-               ry="0" />
-            <rect
-               style="fill:#000000;fill-opacity:1;stroke-width:1.56438"
-               id="rect2654-3-7"
-               width="15"
-               height="0.15000001"
-               x="28"
-               y="9.1450014"
-               ry="0" />
-            <rect
-               style="fill:#000000;fill-opacity:1;stroke-width:1.851"
-               id="rect2654-9-1"
-               width="21"
-               height="0.15000001"
-               x="28"
-               y="10.415002"
-               ry="0" />
-            <rect
-               style="fill:#ff0000;fill-opacity:1;stroke-width:2.01429"
-               id="rect2281"
-               width="2.9000001"
-               height="1.2"
-               x="28.099998"
-               y="0.99999994"
-               ry="0.22502534" />
-            <text
-               xml:space="preserve"
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.05833px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#f50000;fill-opacity:1;stroke-width:2"
-               x="28.747787"
-               y="1.9889364"
-               id="text4571"><tspan
-                 sodipodi:role="line"
-                 id="tspan4569"
-                 style="font-size:1.05833px;fill:#fffffe;fill-opacity:1;stroke-width:2"
-                 x="28.747787"
-                 y="1.9889364">V33</tspan></text>
-            <rect
-               style="fill:#ff0000;fill-opacity:1;stroke-width:2.01429"
-               id="rect2281-1"
-               width="2.9000001"
-               height="1.2"
-               x="28.099998"
-               y="2.2700009"
-               ry="0.22502534" />
-            <text
-               xml:space="preserve"
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.05833px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#f50000;fill-opacity:1;stroke-width:2"
-               x="28.755196"
-               y="3.2589378"
-               id="text4571-7"><tspan
-                 sodipodi:role="line"
-                 id="tspan4569-3"
-                 style="font-size:1.05833px;fill:#fffffe;fill-opacity:1;stroke-width:2"
-                 x="28.755196"
-                 y="3.2589378">VCC</tspan></text>
-            <rect
-               style="fill:#000000;fill-opacity:1;stroke-width:2.01429"
-               id="rect2281-1-7"
-               width="2.9000001"
-               height="1.2"
-               x="28.099998"
-               y="3.5400009"
-               ry="0.22502534" />
-            <text
-               xml:space="preserve"
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.05833px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#f50000;fill-opacity:1;stroke-width:2"
-               x="28.756252"
-               y="4.5289373"
-               id="text4571-7-0"><tspan
-                 sodipodi:role="line"
-                 id="tspan4569-3-3"
-                 style="font-size:1.05833px;fill:#fffffe;fill-opacity:1;stroke-width:2"
-                 x="28.756252"
-                 y="4.5289373">GND</tspan></text>
-            <rect
-               style="fill:#0000ff;fill-opacity:1;stroke-width:2.01429"
-               id="rect2281-1-9"
-               width="2.9000001"
-               height="1.2"
-               x="28.099998"
-               y="4.8100014"
-               ry="0.22502534" />
-            <text
-               xml:space="preserve"
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.05833px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#f50000;fill-opacity:1;stroke-width:2"
-               x="28.483734"
-               y="5.7989378"
-               id="text4571-7-1"><tspan
-                 sodipodi:role="line"
-                 id="tspan4569-3-4"
-                 style="font-size:1.05833px;fill:#fffffe;fill-opacity:1;stroke-width:2"
-                 x="28.483734"
-                 y="5.7989378">P3.7</tspan></text>
-            <rect
-               style="fill:#0000ff;fill-opacity:1;stroke-width:2.01429"
-               id="rect2281-1-4"
-               width="2.9000001"
-               height="1.2"
-               x="28.099998"
-               y="6.0800009"
-               ry="0.22502534" />
-            <text
-               xml:space="preserve"
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.05833px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#f50000;fill-opacity:1;stroke-width:2"
-               x="28.4795"
-               y="7.0689373"
-               id="text4571-7-6"><tspan
-                 sodipodi:role="line"
-                 id="tspan4569-3-1"
-                 style="font-size:1.05833px;fill:#fffffe;fill-opacity:1;stroke-width:2"
-                 x="28.4795"
-                 y="7.0689373">P3.6</tspan></text>
-            <rect
-               style="fill:#0000ff;fill-opacity:1;stroke-width:2.01429"
-               id="rect2281-1-2"
-               width="2.9000001"
-               height="1.2"
-               x="28.099998"
-               y="7.3500013"
-               ry="0.22502534" />
-            <text
-               xml:space="preserve"
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.05833px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#f50000;fill-opacity:1;stroke-width:2"
-               x="28.483734"
-               y="8.3389378"
-               id="text4571-7-4"><tspan
-                 sodipodi:role="line"
-                 id="tspan4569-3-0"
-                 style="font-size:1.05833px;fill:#fffffe;fill-opacity:1;stroke-width:2"
-                 x="28.483734"
-                 y="8.3389378">P3.4</tspan></text>
-            <rect
-               style="fill:#0000ff;fill-opacity:1;stroke-width:2.01429"
-               id="rect2281-1-3"
-               width="2.9000001"
-               height="1.2"
-               x="28.099998"
-               y="8.6200008"
-               ry="0.22502534" />
-            <text
-               xml:space="preserve"
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.05833px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#f50000;fill-opacity:1;stroke-width:2"
-               x="28.475269"
-               y="9.6089382"
-               id="text4571-7-17"><tspan
-                 sodipodi:role="line"
-                 id="tspan4569-3-9"
-                 style="font-size:1.05833px;fill:#fffffe;fill-opacity:1;stroke-width:2"
-                 x="28.475269"
-                 y="9.6089382">P3.3</tspan></text>
-            <rect
-               style="fill:#0000ff;fill-opacity:1;stroke-width:2.01429"
-               id="rect2281-1-0"
-               width="2.9000001"
-               height="1.2"
-               x="28.099998"
-               y="9.8900023"
-               ry="0.22502534" />
-            <text
-               xml:space="preserve"
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.05833px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#f50000;fill-opacity:1;stroke-width:2"
-               x="28.539295"
-               y="10.878939"
-               id="text4571-7-11"><tspan
-                 sodipodi:role="line"
-                 id="tspan4569-3-5"
-                 style="font-size:1.05833px;fill:#fffffe;fill-opacity:1;stroke-width:2"
-                 x="28.539295"
-                 y="10.878939">P1.1</tspan></text>
-            <rect
-               style="fill:#d07700;fill-opacity:1;stroke-width:2.01429"
-               id="rect2281-3-2"
-               width="2.9000001"
-               height="1.2"
-               x="40.099998"
-               y="7.3500013"
-               ry="0.22502534" />
-            <text
-               xml:space="preserve"
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.05833px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#f50000;fill-opacity:1;stroke-width:2"
-               x="40.747787"
-               y="8.3389378"
-               id="text4571-1-3"><tspan
-                 sodipodi:role="line"
-                 id="tspan4569-32-5"
-                 style="font-size:1.05833px;fill:#fffffe;fill-opacity:1;stroke-width:2"
-                 x="40.747787"
-                 y="8.3389378">T2_</tspan></text>
-            <rect
-               style="fill:#ff007f;fill-opacity:1;stroke-width:2.01429"
-               id="rect2281-3-3-0-7"
-               width="2.9000001"
-               height="1.2"
-               x="37.099998"
-               y="7.3500013"
-               ry="0.22502534" />
-            <text
-               xml:space="preserve"
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.05833px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#f50000;fill-opacity:1;stroke-width:2"
-               x="37.231323"
-               y="8.3389378"
-               id="text4571-1-4-3-9"><tspan
-                 sodipodi:role="line"
-                 id="tspan4569-32-4-66-6"
-                 style="font-size:1.05833px;fill:#fffffe;fill-opacity:1;stroke-width:2"
-                 x="37.231323"
-                 y="8.3389378">RXD1_</tspan></text>
-            <rect
-               style="fill:#d07700;fill-opacity:1;stroke-width:2.01429"
-               id="rect2281-3-6-7"
-               width="2.9000001"
-               height="1.2"
-               x="31.099998"
-               y="9.8900023"
-               ry="0.22502534" />
-            <text
-               xml:space="preserve"
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.05833px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#f50000;fill-opacity:1;stroke-width:2"
-               x="31.49802"
-               y="10.878939"
-               id="text4571-1-6-9"><tspan
-                 sodipodi:role="line"
-                 id="tspan4569-32-44-9"
-                 style="font-size:1.05833px;fill:#fffffe;fill-opacity:1;stroke-width:2"
-                 x="31.49802"
-                 y="10.878939">T2EX</tspan></text>
-            <rect
-               style="fill:#d07700;fill-opacity:1;stroke-width:2.01429"
-               id="rect2281-3-3-5-4"
-               width="2.9000001"
-               height="1.2"
-               x="34.099998"
-               y="9.8900023"
-               ry="0.22502534" />
-            <text
-               xml:space="preserve"
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.05833px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#f50000;fill-opacity:1;stroke-width:2"
-               x="34.49379"
-               y="10.878939"
-               id="text4571-1-4-7-4"><tspan
-                 sodipodi:role="line"
-                 id="tspan4569-32-4-6-1"
-                 style="font-size:1.05833px;fill:#fffffe;fill-opacity:1;stroke-width:2"
-                 x="34.49379"
-                 y="10.878939">CAP2</tspan></text>
-            <rect
-               style="fill:#003782;fill-opacity:1;stroke-width:2.01429"
-               id="rect2281-3-3-5-4-7-4"
-               width="2.9000001"
-               height="1.2"
-               x="34.099998"
-               y="7.3500013"
-               ry="0.22502534" />
-            <text
-               xml:space="preserve"
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.05833px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#f50000;fill-opacity:1;stroke-width:2"
-               x="34.49379"
-               y="8.3389378"
-               id="text4571-1-4-7-4-7-7"><tspan
-                 sodipodi:role="line"
-                 id="tspan4569-32-4-6-1-3-8"
-                 style="font-size:1.05833px;fill:#fffffe;fill-opacity:1;stroke-width:2"
-                 x="34.49379"
-                 y="8.3389378">PWM2</tspan></text>
-            <rect
-               style="fill:#00c196;fill-opacity:1;stroke-width:2.01429"
-               id="rect2281-1-4-2-1-4"
-               width="2.9000001"
-               height="1.2"
-               x="40.099998"
-               y="9.8900023"
-               ry="0.22502534" />
-            <text
-               xml:space="preserve"
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.05833px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#f50000;fill-opacity:1;stroke-width:2"
-               x="40.483734"
-               y="10.878939"
-               id="text4571-7-6-8-2-5"><tspan
-                 sodipodi:role="line"
-                 id="tspan4569-3-1-2-2-3"
-                 style="font-size:1.05833px;fill:#fffffe;fill-opacity:1;stroke-width:2"
-                 x="40.483734"
-                 y="10.878939">TIN1</tspan><tspan
-                 sodipodi:role="line"
-                 style="font-size:1.05833px;fill:#fffffe;fill-opacity:1;stroke-width:2"
-                 x="40.483734"
-                 y="12.201851"
-                 id="tspan13008-9" /></text>
-            <rect
-               style="fill:#b440ff;fill-opacity:1;stroke-width:2.01429"
-               id="rect2281-1-4-2-1-4-5"
-               width="2.9000001"
-               height="1.2"
-               x="40.099998"
-               y="8.6200008"
-               ry="0.22502534" />
-            <text
-               xml:space="preserve"
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.05833px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#f50000;fill-opacity:1;stroke-width:2"
-               x="40.483734"
-               y="9.6089373"
-               id="text4571-7-6-8-2-5-7"><tspan
-                 sodipodi:role="line"
-                 id="tspan4569-3-1-2-2-3-4"
-                 style="font-size:1.05833px;fill:#fffffe;fill-opacity:1;stroke-width:2"
-                 x="40.483734"
-                 y="9.6089373">INT1</tspan><tspan
-                 sodipodi:role="line"
-                 style="font-size:1.05833px;fill:#fffffe;fill-opacity:1;stroke-width:2"
-                 x="40.483734"
-                 y="10.931849"
-                 id="tspan13008-9-5" /></text>
-            <rect
-               style="fill:#00beff;fill-opacity:1;stroke-width:2.01429"
-               id="rect2281-1-2-4-2-5-7-7"
-               width="2.9000001"
-               height="1.2"
-               x="46.099998"
-               y="9.8900023"
-               ry="0.22502534" />
-            <text
-               xml:space="preserve"
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.05833px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#f50000;fill-opacity:1;stroke-width:2"
-               x="46.489555"
-               y="10.878939"
-               id="text4571-7-4-8-3-2-8-4"><tspan
-                 sodipodi:role="line"
-                 id="tspan4569-3-0-3-0-2-8-8"
-                 style="font-size:1.05833px;fill:#fffffe;fill-opacity:1;stroke-width:2"
-                 x="46.489555"
-                 y="10.878939">AIN0</tspan><tspan
-                 sodipodi:role="line"
-                 style="font-size:1.05833px;fill:#fffffe;fill-opacity:1;stroke-width:2"
-                 x="46.489555"
-                 y="12.201851"
-                 id="tspan2262" /></text>
-            <rect
-               style="fill:#ff7f7f;fill-opacity:1;stroke-width:2.01429"
-               id="rect2281-1-2-4-2-2"
-               width="2.9000001"
-               height="1.2"
-               x="43.099998"
-               y="9.8900023"
-               ry="0.22502534" />
-            <text
-               xml:space="preserve"
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.05833px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#f50000;fill-opacity:1;stroke-width:2"
-               x="43.220741"
-               y="10.878939"
-               id="text4571-7-4-8-3-4"><tspan
-                 sodipodi:role="line"
-                 id="tspan4569-3-0-3-0-8"
-                 style="font-size:1.05833px;fill:#fffffe;fill-opacity:1;stroke-width:2"
-                 x="43.220741"
-                 y="10.878939">VBUS2</tspan></text>
-            <rect
-               style="fill:#ff7f7f;fill-opacity:1;stroke-width:2.01429"
-               id="rect2281-1-2-4-2-8-9"
-               width="2.9000001"
-               height="1.2"
-               x="43.099998"
-               y="4.8100014"
-               ry="0.22502534" />
-            <text
-               xml:space="preserve"
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.05833px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#f50000;fill-opacity:1;stroke-width:2"
-               x="43.74567"
-               y="5.7989368"
-               id="text4571-7-4-8-3-3-0"><tspan
-                 sodipodi:role="line"
-                 id="tspan4569-3-0-3-0-9-5"
-                 style="font-size:1.05833px;fill:#fffffe;fill-opacity:1;stroke-width:2"
-                 x="43.74567"
-                 y="5.7989368">UDM</tspan></text>
-            <rect
-               style="fill:#ff7f7f;fill-opacity:1;stroke-width:2.01429"
-               id="rect2281-1-2-4-2-5-2"
-               width="2.9000001"
-               height="1.2"
-               x="43.099998"
-               y="6.0800009"
-               ry="0.22502534" />
-            <text
-               xml:space="preserve"
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.05833px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#f50000;fill-opacity:1;stroke-width:2"
-               x="43.747787"
-               y="7.0689373"
-               id="text4571-7-4-8-3-2-7"><tspan
-                 sodipodi:role="line"
-                 id="tspan4569-3-0-3-0-2-3"
-                 style="font-size:1.05833px;fill:#fffffe;fill-opacity:1;stroke-width:2"
-                 x="43.747787"
-                 y="7.0689373">UDP</tspan></text>
-          </g>
-          <g
-             id="g6940"
-             transform="matrix(3,0,0,3,0,9.6000051)">
-            <rect
-               style="fill:#000000;fill-opacity:1;stroke-width:1.851"
-               id="rect2654"
-               width="21"
-               height="0.15000001"
-               x="1"
-               y="1.5249985"
-               ry="0" />
-            <rect
-               style="fill:#000000;fill-opacity:1;stroke-width:1.851"
-               id="rect2654-8"
-               width="21"
-               height="0.15000001"
-               x="1"
-               y="2.7949996"
-               ry="0" />
-            <rect
-               style="fill:#000000;fill-opacity:1;stroke-width:1.851"
-               id="rect2654-6"
-               width="21"
-               height="0.15000001"
-               x="1"
-               y="4.0650001"
-               ry="0" />
-            <rect
-               style="fill:#000000;fill-opacity:1;stroke-width:1.56438"
-               id="rect2654-2"
-               width="15"
-               height="0.15000001"
-               x="7"
-               y="5.3349996"
-               ry="0" />
-            <rect
-               style="fill:#000000;fill-opacity:1;stroke-width:1.56438"
-               id="rect2654-5"
-               width="15"
-               height="0.15000001"
-               x="7"
-               y="6.605001"
-               ry="0" />
-            <rect
-               style="fill:#000000;fill-opacity:1;stroke-width:1.21176"
-               id="rect2654-1"
-               width="9"
-               height="0.15000001"
-               x="13"
-               y="7.8749995"
-               ry="0" />
-            <rect
-               style="fill:#000000;fill-opacity:1;stroke-width:1.39922"
-               id="rect2654-3"
-               width="12"
-               height="0.15000001"
-               x="10"
-               y="9.1449995"
-               ry="0" />
-            <rect
-               style="fill:#000000;fill-opacity:1;stroke-width:1.39922"
-               id="rect2654-9"
-               width="12"
-               height="0.15000001"
-               x="10"
-               y="10.415"
-               ry="0" />
-            <rect
-               style="fill:#d07700;fill-opacity:1;stroke-width:2.01429"
-               id="rect2281-3"
-               width="2.9000001"
-               height="1.2"
-               x="15.999998"
-               y="2.2700009"
-               ry="0.22502534" />
-            <text
-               xml:space="preserve"
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.05833px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#f50000;fill-opacity:1;stroke-width:2"
-               x="16.647787"
-               y="3.2589378"
-               id="text4571-1"><tspan
-                 sodipodi:role="line"
-                 id="tspan4569-32"
-                 style="font-size:1.05833px;fill:#fffffe;fill-opacity:1;stroke-width:2"
-                 x="16.647787"
-                 y="3.2589378">T2_</tspan></text>
-            <rect
-               style="fill:#d07700;fill-opacity:1;stroke-width:2.01429"
-               id="rect2281-3-3"
-               width="2.9000001"
-               height="1.2"
-               x="12.999998"
-               y="2.2700009"
-               ry="0.22502534" />
-            <text
-               xml:space="preserve"
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.05833px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#f50000;fill-opacity:1;stroke-width:2"
-               x="13.131323"
-               y="3.2589378"
-               id="text4571-1-4"><tspan
-                 sodipodi:role="line"
-                 id="tspan4569-32-4"
-                 style="font-size:1.05833px;fill:#fffffe;fill-opacity:1;stroke-width:2"
-                 x="13.131323"
-                 y="3.2589378">CAP1_</tspan></text>
-            <rect
-               style="fill:#ff007f;fill-opacity:1;stroke-width:2.01429"
-               id="rect2281-3-3-0"
-               width="2.9000001"
-               height="1.2"
-               x="10"
-               y="0.99999994"
-               ry="0.22502534" />
-            <text
-               xml:space="preserve"
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.05833px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#f50000;fill-opacity:1;stroke-width:2"
-               x="10.131325"
-               y="1.9889364"
-               id="text4571-1-4-3"><tspan
-                 sodipodi:role="line"
-                 id="tspan4569-32-4-66"
-                 style="font-size:1.05833px;fill:#fffffe;fill-opacity:1;stroke-width:2"
-                 x="10.131325"
-                 y="1.9889364">TXD1_</tspan></text>
-            <rect
-               style="fill:#ff007f;fill-opacity:1;stroke-width:2.01429"
-               id="rect2281-3-3-0-5"
-               width="2.9000001"
-               height="1.2"
-               x="10"
-               y="4.8100014"
-               ry="0.22502534" />
-            <text
-               xml:space="preserve"
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.05833px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#f50000;fill-opacity:1;stroke-width:2"
-               x="10.447235"
-               y="5.7989378"
-               id="text4571-1-4-3-2"><tspan
-                 sodipodi:role="line"
-                 id="tspan4569-32-4-66-0"
-                 style="font-size:1.05833px;fill:#fffffe;fill-opacity:1;stroke-width:2"
-                 x="10.447235"
-                 y="5.7989378">RXD1</tspan></text>
-            <rect
-               style="fill:#ff007f;fill-opacity:1;stroke-width:2.01429"
-               id="rect2281-3-3-0-1"
-               width="2.9000001"
-               height="1.2"
-               x="10"
-               y="6.0800009"
-               ry="0.22502534" />
-            <text
-               xml:space="preserve"
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.05833px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#f50000;fill-opacity:1;stroke-width:2"
-               x="10.453585"
-               y="7.0689373"
-               id="text4571-1-4-3-24"><tspan
-                 sodipodi:role="line"
-                 id="tspan4569-32-4-66-5"
-                 style="font-size:1.05833px;fill:#fffffe;fill-opacity:1;stroke-width:2"
-                 x="10.453585"
-                 y="7.0689373">TXD1</tspan></text>
-            <rect
-               style="fill:#ff007f;fill-opacity:1;stroke-width:2.01429"
-               id="rect2281-3-3-0-2"
-               width="2.9000001"
-               height="1.2"
-               x="10"
-               y="8.6200008"
-               ry="0.22502534" />
-            <text
-               xml:space="preserve"
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.05833px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#f50000;fill-opacity:1;stroke-width:2"
-               x="10.658371"
-               y="9.6089382"
-               id="text4571-1-4-3-3"><tspan
-                 sodipodi:role="line"
-                 id="tspan4569-32-4-66-2"
-                 style="font-size:1.05833px;fill:#fffffe;fill-opacity:1;stroke-width:2"
-                 x="10.658371"
-                 y="9.6089382">TXD</tspan></text>
-            <rect
-               style="fill:#ff007f;fill-opacity:1;stroke-width:2.01429"
-               id="rect2281-3-3-0-11"
-               width="2.9000001"
-               height="1.2"
-               x="10"
-               y="9.8900023"
-               ry="0.22502534" />
-            <text
-               xml:space="preserve"
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.05833px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#f50000;fill-opacity:1;stroke-width:2"
-               x="10.65202"
-               y="10.878939"
-               id="text4571-1-4-3-98"><tspan
-                 sodipodi:role="line"
-                 id="tspan4569-32-4-66-09"
-                 style="font-size:1.05833px;fill:#fffffe;fill-opacity:1;stroke-width:2"
-                 x="10.65202"
-                 y="10.878939">RXD</tspan></text>
-            <rect
-               style="fill:#d07700;fill-opacity:1;stroke-width:2.01429"
-               id="rect2281-3-6"
-               width="2.9000001"
-               height="1.2"
-               x="15.999998"
-               y="7.3500013"
-               ry="0.22502534" />
-            <text
-               xml:space="preserve"
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.05833px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#f50000;fill-opacity:1;stroke-width:2"
-               x="16.13344"
-               y="8.3389378"
-               id="text4571-1-6"><tspan
-                 sodipodi:role="line"
-                 id="tspan4569-32-44"
-                 style="font-size:1.05833px;fill:#fffffe;fill-opacity:1;stroke-width:2"
-                 x="16.13344"
-                 y="8.3389378">T2EX_</tspan></text>
-            <rect
-               style="fill:#d07700;fill-opacity:1;stroke-width:2.01429"
-               id="rect2281-3-3-5"
-               width="2.9000001"
-               height="1.2"
-               x="12.999998"
-               y="7.3500013"
-               ry="0.22502534" />
-            <text
-               xml:space="preserve"
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.05833px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#f50000;fill-opacity:1;stroke-width:2"
-               x="13.131323"
-               y="8.3389378"
-               id="text4571-1-4-7"><tspan
-                 sodipodi:role="line"
-                 id="tspan4569-32-4-6"
-                 style="font-size:1.05833px;fill:#fffffe;fill-opacity:1;stroke-width:2"
-                 x="13.131323"
-                 y="8.3389378">CAP2_</tspan></text>
-            <rect
-               style="fill:#ffbe00;fill-opacity:1;stroke-width:2.01429"
-               id="rect2281-3-6-7-7"
-               width="2.9000001"
-               height="1.2"
-               x="16"
-               y="3.5400009"
-               ry="0.22502534" />
-            <text
-               xml:space="preserve"
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.05833px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#f50000;fill-opacity:1;stroke-width:2"
-               x="16.398022"
-               y="4.5289373"
-               id="text4571-1-6-9-6"><tspan
-                 sodipodi:role="line"
-                 id="tspan4569-32-44-9-8"
-                 style="font-size:1.05833px;fill:#fffffe;fill-opacity:1;stroke-width:2"
-                 x="16.398022"
-                 y="4.5289373">MOSI</tspan></text>
-            <rect
-               style="fill:#ffbe00;fill-opacity:1;stroke-width:2.01429"
-               id="rect2281-3-6-7-3"
-               width="2.9000001"
-               height="1.2"
-               x="16"
-               y="4.8100014"
-               ry="0.22502534" />
-            <text
-               xml:space="preserve"
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.05833px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#f50000;fill-opacity:1;stroke-width:2"
-               x="16.398022"
-               y="5.7989378"
-               id="text4571-1-6-9-8"><tspan
-                 sodipodi:role="line"
-                 id="tspan4569-32-44-9-0"
-                 style="font-size:1.05833px;fill:#fffffe;fill-opacity:1;stroke-width:2"
-                 x="16.398022"
-                 y="5.7989378">MISO</tspan></text>
-            <rect
-               style="fill:#ffbe00;fill-opacity:1;stroke-width:2.01429"
-               id="rect2281-3-6-7-1"
-               width="2.9000001"
-               height="1.2"
-               x="16"
-               y="6.0800009"
-               ry="0.22502534" />
-            <text
-               xml:space="preserve"
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.05833px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#ffffff;fill-opacity:1;stroke-width:2"
-               x="16.657312"
-               y="7.0689373"
-               id="text4571-1-6-9-1"><tspan
-                 sodipodi:role="line"
-                 id="tspan4569-32-44-9-87"
-                 style="font-size:1.05833px;fill:#ffffff;fill-opacity:1;stroke-width:2"
-                 x="16.657312"
-                 y="7.0689373">SCK</tspan></text>
-            <rect
-               style="fill:#ffbe00;fill-opacity:1;stroke-width:2.01429"
-               id="rect2281-3-6-7-1-5"
-               width="2.9000001"
-               height="1.2"
-               x="10"
-               y="2.2700009"
-               ry="0.22502534" />
-            <text
-               xml:space="preserve"
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.05833px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#ffffff;fill-opacity:1;stroke-width:2"
-               x="10.657312"
-               y="3.2589378"
-               id="text4571-1-6-9-1-8"><tspan
-                 sodipodi:role="line"
-                 id="tspan4569-32-44-9-87-8"
-                 style="font-size:1.05833px;fill:#ffffff;fill-opacity:1;stroke-width:2"
-                 x="10.657312"
-                 y="3.2589378">SCS</tspan></text>
-            <rect
-               style="fill:#003782;fill-opacity:1;stroke-width:2.01429"
-               id="rect2281-3-3-5-4-7"
-               width="2.9000001"
-               height="1.2"
-               x="13"
-               y="3.5400009"
-               ry="0.22502534" />
-            <text
-               xml:space="preserve"
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.05833px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#f50000;fill-opacity:1;stroke-width:2"
-               x="13.393791"
-               y="4.5289373"
-               id="text4571-1-4-7-4-7"><tspan
-                 sodipodi:role="line"
-                 id="tspan4569-32-4-6-1-3"
-                 style="font-size:1.05833px;fill:#fffffe;fill-opacity:1;stroke-width:2"
-                 x="13.393791"
-                 y="4.5289373">PWM1</tspan></text>
-            <rect
-               style="fill:#003782;fill-opacity:1;stroke-width:2.01429"
-               id="rect2281-3-3-5-4-7-5"
-               width="2.9000001"
-               height="1.2"
-               x="13"
-               y="8.6200008"
-               ry="0.22502534" />
-            <text
-               xml:space="preserve"
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.05833px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#f50000;fill-opacity:1;stroke-width:2"
-               x="13.119156"
-               y="9.6089382"
-               id="text4571-1-4-7-4-7-0"><tspan
-                 sodipodi:role="line"
-                 id="tspan4569-32-4-6-1-3-5"
-                 style="font-size:1.05833px;fill:#fffffe;fill-opacity:1;stroke-width:2"
-                 x="13.119156"
-                 y="9.6089382">PWM2_</tspan></text>
-            <rect
-               style="fill:#003782;fill-opacity:1;stroke-width:2.01429"
-               id="rect2281-3-3-5-4-7-5-6"
-               width="2.9000001"
-               height="1.2"
-               x="13"
-               y="9.8900023"
-               ry="0.22502534" />
-            <text
-               xml:space="preserve"
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.05833px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#f50000;fill-opacity:1;stroke-width:2"
-               x="13.119156"
-               y="10.878939"
-               id="text4571-1-4-7-4-7-0-9"><tspan
-                 sodipodi:role="line"
-                 id="tspan4569-32-4-6-1-3-5-1"
-                 style="font-size:1.05833px;fill:#fffffe;fill-opacity:1;stroke-width:2"
-                 x="13.119156"
-                 y="10.878939">PWM1_</tspan></text>
-            <rect
-               style="fill:#0000ff;fill-opacity:1;stroke-width:2.01429"
-               id="rect2281-18"
-               width="2.9000001"
-               height="1.2"
-               x="18.999998"
-               y="0.99999994"
-               ry="0.22502534" />
-            <text
-               xml:space="preserve"
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.05833px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#f50000;fill-opacity:1;stroke-width:2"
-               x="19.381618"
-               y="1.9889364"
-               id="text4571-5"><tspan
-                 sodipodi:role="line"
-                 id="tspan4569-31"
-                 style="font-size:1.05833px;fill:#fffffe;fill-opacity:1;stroke-width:2"
-                 x="19.381618"
-                 y="1.9889364">P3.2</tspan></text>
-            <rect
-               style="fill:#0000ff;fill-opacity:1;stroke-width:2.01429"
-               id="rect2281-1-93"
-               width="2.9000001"
-               height="1.2"
-               x="18.999998"
-               y="2.2700009"
-               ry="0.22502534" />
-            <text
-               xml:space="preserve"
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.05833px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#f50000;fill-opacity:1;stroke-width:2"
-               x="19.383734"
-               y="3.2589378"
-               id="text4571-7-9"><tspan
-                 sodipodi:role="line"
-                 id="tspan4569-3-10"
-                 style="font-size:1.05833px;fill:#fffffe;fill-opacity:1;stroke-width:2"
-                 x="19.383734"
-                 y="3.2589378">P1.4</tspan></text>
-            <rect
-               style="fill:#0000ff;fill-opacity:1;stroke-width:2.01429"
-               id="rect2281-1-7-4"
-               width="2.9000001"
-               height="1.2"
-               x="18.999998"
-               y="3.5400009"
-               ry="0.22502534" />
-            <text
-               xml:space="preserve"
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.05833px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#f50000;fill-opacity:1;stroke-width:2"
-               x="19.379501"
-               y="4.5289373"
-               id="text4571-7-0-9"><tspan
-                 sodipodi:role="line"
-                 id="tspan4569-3-3-0"
-                 style="font-size:1.05833px;fill:#fffffe;fill-opacity:1;stroke-width:2"
-                 x="19.379501"
-                 y="4.5289373">P1.5</tspan></text>
-            <rect
-               style="fill:#0000ff;fill-opacity:1;stroke-width:2.01429"
-               id="rect2281-1-9-0"
-               width="2.9000001"
-               height="1.2"
-               x="18.999998"
-               y="4.8100014"
-               ry="0.22502534" />
-            <text
-               xml:space="preserve"
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.05833px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#f50000;fill-opacity:1;stroke-width:2"
-               x="19.379501"
-               y="5.7989378"
-               id="text4571-7-1-0"><tspan
-                 sodipodi:role="line"
-                 id="tspan4569-3-4-3"
-                 style="font-size:1.05833px;fill:#fffffe;fill-opacity:1;stroke-width:2"
-                 x="19.379501"
-                 y="5.7989378">P1.6</tspan></text>
-            <rect
-               style="fill:#0000ff;fill-opacity:1;stroke-width:2.01429"
-               id="rect2281-1-4-2"
-               width="2.9000001"
-               height="1.2"
-               x="18.999998"
-               y="6.0800009"
-               ry="0.22502534" />
-            <text
-               xml:space="preserve"
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.05833px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#f50000;fill-opacity:1;stroke-width:2"
-               x="19.383734"
-               y="7.0689373"
-               id="text4571-7-6-8"><tspan
-                 sodipodi:role="line"
-                 id="tspan4569-3-1-2"
-                 style="font-size:1.05833px;fill:#fffffe;fill-opacity:1;stroke-width:2"
-                 x="19.383734"
-                 y="7.0689373">P1.7</tspan></text>
-            <rect
-               style="fill:#00c196;fill-opacity:1;stroke-width:2.01429"
-               id="rect2281-1-93-5"
-               width="2.9000001"
-               height="1.2"
-               x="7"
-               y="2.2700009"
-               ry="0.22502534" />
-            <text
-               xml:space="preserve"
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.05833px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#f50000;fill-opacity:1;stroke-width:2"
-               x="7.3837357"
-               y="3.2589378"
-               id="text4571-7-9-1"><tspan
-                 sodipodi:role="line"
-                 id="tspan4569-3-10-7"
-                 style="font-size:1.05833px;fill:#fffffe;fill-opacity:1;stroke-width:2"
-                 x="7.3837357"
-                 y="3.2589378">TIN2</tspan></text>
-            <rect
-               style="fill:#00c196;fill-opacity:1;stroke-width:2.01429"
-               id="rect2281-1-7-4-1"
-               width="2.9000001"
-               height="1.2"
-               x="7"
-               y="3.5400009"
-               ry="0.22502534" />
-            <text
-               xml:space="preserve"
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.05833px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#f50000;fill-opacity:1;stroke-width:2"
-               x="7.3795033"
-               y="4.5289373"
-               id="text4571-7-0-9-8"><tspan
-                 sodipodi:role="line"
-                 id="tspan4569-3-3-0-4"
-                 style="font-size:1.05833px;fill:#fffffe;fill-opacity:1;stroke-width:2"
-                 x="7.3795033"
-                 y="4.5289373">TIN3</tspan></text>
-            <rect
-               style="fill:#00c196;fill-opacity:1;stroke-width:2.01429"
-               id="rect2281-1-9-0-0"
-               width="2.9000001"
-               height="1.2"
-               x="7"
-               y="4.8100014"
-               ry="0.22502534" />
-            <text
-               xml:space="preserve"
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.05833px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#f50000;fill-opacity:1;stroke-width:2"
-               x="7.3795033"
-               y="5.7989378"
-               id="text4571-7-1-0-7"><tspan
-                 sodipodi:role="line"
-                 id="tspan4569-3-4-3-7"
-                 style="font-size:1.05833px;fill:#fffffe;fill-opacity:1;stroke-width:2"
-                 x="7.3795033"
-                 y="5.7989378">TIN4</tspan></text>
-            <rect
-               style="fill:#00c196;fill-opacity:1;stroke-width:2.01429"
-               id="rect2281-1-4-2-1"
-               width="2.9000001"
-               height="1.2"
-               x="7"
-               y="6.0800009"
-               ry="0.22502534" />
-            <text
-               xml:space="preserve"
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.05833px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#f50000;fill-opacity:1;stroke-width:2"
-               x="7.3837357"
-               y="7.0689373"
-               id="text4571-7-6-8-2"><tspan
-                 sodipodi:role="line"
-                 id="tspan4569-3-1-2-2"
-                 style="font-size:1.05833px;fill:#fffffe;fill-opacity:1;stroke-width:2"
-                 x="7.3837357"
-                 y="7.0689373">TIN5</tspan><tspan
-                 sodipodi:role="line"
-                 style="font-size:1.05833px;fill:#fffffe;fill-opacity:1;stroke-width:2"
-                 x="7.3837357"
-                 y="8.3918495"
-                 id="tspan13008" /></text>
-            <rect
-               style="fill:#b440ff;fill-opacity:1;stroke-width:2.01429"
-               id="rect2281-1-4-2-1-4-5-0"
-               width="2.9000001"
-               height="1.2"
-               x="7"
-               y="0.99999994"
-               ry="0.22502534" />
-            <text
-               xml:space="preserve"
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.05833px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#f50000;fill-opacity:1;stroke-width:2"
-               x="7.3837357"
-               y="1.9889359"
-               id="text4571-7-6-8-2-5-7-3"><tspan
-                 sodipodi:role="line"
-                 style="font-size:1.05833px;fill:#fffffe;fill-opacity:1;stroke-width:2"
-                 x="7.3837357"
-                 y="1.9889359"
-                 id="tspan13303">INT0</tspan><tspan
-                 sodipodi:role="line"
-                 style="font-size:1.05833px;fill:#fffffe;fill-opacity:1;stroke-width:2"
-                 x="7.3837357"
-                 y="3.3118486"
-                 id="tspan13008-9-5-2" /></text>
-            <rect
-               style="fill:#ff0000;fill-opacity:1;stroke-width:2.01429"
-               id="rect2281-1-2-4"
-               width="2.9000001"
-               height="1.2"
-               x="18.999998"
-               y="7.3500013"
-               ry="0.22502534" />
-            <text
-               xml:space="preserve"
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.05833px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#f50000;fill-opacity:1;stroke-width:2"
-               x="19.120741"
-               y="8.3389378"
-               id="text4571-7-4-8"><tspan
-                 sodipodi:role="line"
-                 id="tspan4569-3-0-3"
-                 style="font-size:1.05833px;fill:#fffffe;fill-opacity:1;stroke-width:2"
-                 x="19.120741"
-                 y="8.3389378">RESET</tspan></text>
-            <rect
-               style="fill:#ff7f7f;fill-opacity:1;stroke-width:2.01429"
-               id="rect2281-1-2-4-2"
-               width="2.9000001"
-               height="1.2"
-               x="4"
-               y="0.99999994"
-               ry="0.22502534" />
-            <text
-               xml:space="preserve"
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.05833px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#f50000;fill-opacity:1;stroke-width:2"
-               x="4.1207428"
-               y="1.9889364"
-               id="text4571-7-4-8-3"><tspan
-                 sodipodi:role="line"
-                 id="tspan4569-3-0-3-0"
-                 style="font-size:1.05833px;fill:#fffffe;fill-opacity:1;stroke-width:2"
-                 x="4.1207428"
-                 y="1.9889364">VBUS1</tspan></text>
-            <rect
-               style="fill:#ff7f7f;fill-opacity:1;stroke-width:2.01429"
-               id="rect2281-1-2-4-2-8"
-               width="2.9000001"
-               height="1.2"
-               x="4"
-               y="2.2700009"
-               ry="0.22502534" />
-            <text
-               xml:space="preserve"
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.05833px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#f50000;fill-opacity:1;stroke-width:2"
-               x="4.4472351"
-               y="3.2589369"
-               id="text4571-7-4-8-3-3"><tspan
-                 sodipodi:role="line"
-                 id="tspan4569-3-0-3-0-9"
-                 style="font-size:1.05833px;fill:#fffffe;fill-opacity:1;stroke-width:2"
-                 x="4.4472351"
-                 y="3.2589369">UCC1</tspan></text>
-            <rect
-               style="fill:#ff7f7f;fill-opacity:1;stroke-width:2.01429"
-               id="rect2281-1-2-4-2-5"
-               width="2.9000001"
-               height="1.2"
-               x="4"
-               y="3.5400009"
-               ry="0.22502534" />
-            <text
-               xml:space="preserve"
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.05833px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#f50000;fill-opacity:1;stroke-width:2"
-               x="4.3895559"
-               y="4.5289373"
-               id="text4571-7-4-8-3-2"><tspan
-                 sodipodi:role="line"
-                 id="tspan4569-3-0-3-0-2"
-                 style="font-size:1.05833px;fill:#fffffe;fill-opacity:1;stroke-width:2"
-                 x="4.3895559"
-                 y="4.5289373">UCC2</tspan></text>
-            <rect
-               style="fill:#00beff;fill-opacity:1;stroke-width:2.01429"
-               id="rect2281-1-2-4-2-0"
-               width="2.9000001"
-               height="1.2"
-               x="1"
-               y="0.99999994"
-               ry="0.22502534" />
-            <text
-               xml:space="preserve"
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.05833px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#f50000;fill-opacity:1;stroke-width:2"
-               x="1.3832064"
-               y="1.9889364"
-               id="text4571-7-4-8-3-32"><tspan
-                 sodipodi:role="line"
-                 id="tspan4569-3-0-3-0-6"
-                 style="font-size:1.05833px;fill:#fffffe;fill-opacity:1;stroke-width:2"
-                 x="1.3832064"
-                 y="1.9889364">AIN3</tspan></text>
-            <rect
-               style="fill:#00beff;fill-opacity:1;stroke-width:2.01429"
-               id="rect2281-1-2-4-2-8-94"
-               width="2.9000001"
-               height="1.2"
-               x="1"
-               y="2.2700009"
-               ry="0.22502534" />
-            <text
-               xml:space="preserve"
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.05833px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#f50000;fill-opacity:1;stroke-width:2"
-               x="1.4472351"
-               y="3.2589369"
-               id="text4571-7-4-8-3-3-1"><tspan
-                 sodipodi:role="line"
-                 id="tspan4569-3-0-3-0-9-3"
-                 style="font-size:1.05833px;fill:#fffffe;fill-opacity:1;stroke-width:2"
-                 x="1.4472351"
-                 y="3.2589369">AIN1</tspan></text>
-            <rect
-               style="fill:#00beff;fill-opacity:1;stroke-width:2.01429"
-               id="rect2281-1-2-4-2-5-7"
-               width="2.9000001"
-               height="1.2"
-               x="1"
-               y="3.5400009"
-               ry="0.22502534" />
-            <text
-               xml:space="preserve"
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.05833px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#f50000;fill-opacity:1;stroke-width:2"
-               x="1.3895559"
-               y="4.5289373"
-               id="text4571-7-4-8-3-2-8"><tspan
-                 sodipodi:role="line"
-                 id="tspan4569-3-0-3-0-2-8"
-                 style="font-size:1.05833px;fill:#fffffe;fill-opacity:1;stroke-width:2"
-                 x="1.3895559"
-                 y="4.5289373">AIN2</tspan></text>
-            <rect
-               style="fill:#0000ff;fill-opacity:1;stroke-width:2.01429"
-               id="rect2281-1-3-5"
-               width="2.9000001"
-               height="1.2"
-               x="18.999998"
-               y="8.6200008"
-               ry="0.22502534" />
-            <text
-               xml:space="preserve"
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.05833px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#f50000;fill-opacity:1;stroke-width:2"
-               x="19.439297"
-               y="9.6089382"
-               id="text4571-7-17-0"><tspan
-                 sodipodi:role="line"
-                 id="tspan4569-3-9-0"
-                 style="font-size:1.05833px;fill:#fffffe;fill-opacity:1;stroke-width:2"
-                 x="19.439297"
-                 y="9.6089382">P3.1</tspan></text>
-            <rect
-               style="fill:#0000ff;fill-opacity:1;stroke-width:2.01429"
-               id="rect2281-1-0-6"
-               width="2.9000001"
-               height="1.2"
-               x="18.999998"
-               y="9.8900023"
-               ry="0.22502534" />
-            <text
-               xml:space="preserve"
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.05833px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#f50000;fill-opacity:1;stroke-width:2"
-               x="19.379501"
-               y="10.878939"
-               id="text4571-7-11-7"><tspan
-                 sodipodi:role="line"
-                 id="tspan4569-3-5-0"
-                 style="font-size:1.05833px;fill:#fffffe;fill-opacity:1;stroke-width:2"
-                 x="19.379501"
-                 y="10.878939">P3.0</tspan></text>
-          </g>
-        </g>
-        <g
            transform="matrix(0.16563014,0,0,0.16561546,97.384311,25.187132)"
            id="g325"
            inkscape:export-filename="/mnt/hgfs/Bov/Documents/Work/2007/cc/identity/srr buttons/big/by-nc.png"
@@ -1923,167 +348,6 @@
                id="path359"
                style="fill-rule:evenodd" />
           </g>
-        </g>
-        <g
-           id="g7370"
-           transform="translate(0,0.59999847)">
-          <rect
-             style="fill:#0000ff;fill-opacity:1;stroke-width:6.04287"
-             id="rect2281-1-0-4"
-             width="8.7000008"
-             height="3.6000001"
-             x="39.150002"
-             y="47.400002"
-             ry="0.67507601" />
-          <text
-             xml:space="preserve"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.17499px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#f50000;fill-opacity:1;stroke-width:6"
-             x="41.094952"
-             y="50.354111"
-             id="text4571-7-11-74"><tspan
-               sodipodi:role="line"
-               id="tspan4569-3-5-1"
-               style="font-size:3.17499px;fill:#fffffe;fill-opacity:1;stroke-width:6"
-               x="41.094952"
-               y="50.354111">Pin</tspan></text>
-          <rect
-             style="fill:#d07700;fill-opacity:1;stroke-width:6.04287"
-             id="rect2281-3-6-7-8"
-             width="8.7000008"
-             height="3.6000001"
-             x="48.150002"
-             y="47.400002"
-             ry="0.67507601" />
-          <text
-             xml:space="preserve"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.17499px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#f50000;fill-opacity:1;stroke-width:6"
-             x="48.520161"
-             y="50.379509"
-             id="text4571-1-6-9-5"><tspan
-               sodipodi:role="line"
-               id="tspan4569-32-44-9-89"
-               style="font-size:3.17499px;fill:#fffffe;fill-opacity:1;stroke-width:6"
-               x="48.520161"
-               y="50.379509">Timer</tspan></text>
-          <rect
-             style="fill:#ff007f;fill-opacity:1;stroke-width:6.04287"
-             id="rect2281-3-3-0-11-2"
-             width="8.7000008"
-             height="3.6000001"
-             x="75.150002"
-             y="47.400002"
-             ry="0.67507601" />
-          <text
-             xml:space="preserve"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.17499px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#f50000;fill-opacity:1;stroke-width:6"
-             x="76.305969"
-             y="50.36681"
-             id="text4571-1-4-3-98-5"><tspan
-               sodipodi:role="line"
-               id="tspan4569-32-4-66-09-6"
-               style="font-size:3.17499px;fill:#fffffe;fill-opacity:1;stroke-width:6"
-               x="76.305969"
-               y="50.36681">UART</tspan></text>
-          <rect
-             style="fill:#00c196;fill-opacity:1;stroke-width:6.04287"
-             id="rect2281-1-4-2-1-3"
-             width="8.7000008"
-             height="3.6000001"
-             x="84.150002"
-             y="47.400002"
-             ry="0.67507601" />
-          <text
-             xml:space="preserve"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.17499px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#f50000;fill-opacity:1;stroke-width:6"
-             x="84.550323"
-             y="50.354111"
-             id="text4571-7-6-8-2-4"><tspan
-               sodipodi:role="line"
-               id="tspan4569-3-1-2-2-0"
-               style="font-size:3.17499px;fill:#fffffe;fill-opacity:1;stroke-width:6"
-               x="84.550323"
-               y="50.354111">Touch</tspan><tspan
-               sodipodi:role="line"
-               style="font-size:3.17499px;fill:#fffffe;fill-opacity:1;stroke-width:6"
-               x="84.550323"
-               y="54.322849"
-               id="tspan13008-6" /></text>
-          <rect
-             style="fill:#ff7f7f;fill-opacity:1;stroke-width:6.04287"
-             id="rect2281-1-2-4-2-5-0"
-             width="8.7000008"
-             height="3.6000001"
-             x="93.150002"
-             y="47.400002"
-             ry="0.67507601" />
-          <text
-             xml:space="preserve"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.17499px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#f50000;fill-opacity:1;stroke-width:6"
-             x="95.093369"
-             y="50.36681"
-             id="text4571-7-4-8-3-2-4"><tspan
-               sodipodi:role="line"
-               id="tspan4569-3-0-3-0-2-0"
-               style="font-size:3.17499px;fill:#fffffe;fill-opacity:1;stroke-width:6"
-               x="95.093369"
-               y="50.36681">USB</tspan></text>
-          <rect
-             style="fill:#00beff;fill-opacity:1;stroke-width:6.04287"
-             id="rect2281-1-2-4-2-5-7-5"
-             width="8.7000008"
-             height="3.6000001"
-             x="102.15"
-             y="47.400002"
-             ry="0.67507601" />
-          <text
-             xml:space="preserve"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.17499px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#f50000;fill-opacity:1;stroke-width:6"
-             x="104.11559"
-             y="50.379509"
-             id="text4571-7-4-8-3-2-8-6"><tspan
-               sodipodi:role="line"
-               id="tspan4569-3-0-3-0-2-8-85"
-               style="font-size:3.17499px;fill:#fffffe;fill-opacity:1;stroke-width:6"
-               x="104.11559"
-               y="50.379509">ADC</tspan></text>
-          <rect
-             style="fill:#ffbe00;fill-opacity:1;stroke-width:6.04287"
-             id="rect2281-3-6-7-7-9"
-             width="8.7000008"
-             height="3.6000001"
-             x="57.150002"
-             y="47.400002"
-             ry="0.67507601" />
-          <text
-             xml:space="preserve"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.17499px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#f50000;fill-opacity:1;stroke-width:6"
-             x="59.160042"
-             y="50.371571"
-             id="text4571-1-6-9-6-9"><tspan
-               sodipodi:role="line"
-               id="tspan4569-32-44-9-8-3"
-               style="font-size:3.17499px;fill:#fffffe;fill-opacity:1;stroke-width:6"
-               x="59.160042"
-               y="50.371571">SPI</tspan></text>
-          <rect
-             style="fill:#003782;fill-opacity:1;stroke-width:6.04287"
-             id="rect2281-3-3-5-4-7-3"
-             width="8.7000008"
-             height="3.6000001"
-             x="66.150002"
-             y="47.400002"
-             ry="0.67507601" />
-          <text
-             xml:space="preserve"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.17499px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#f50000;fill-opacity:1;stroke-width:6"
-             x="68.063202"
-             y="50.36681"
-             id="text4571-1-4-7-4-7-77"><tspan
-               sodipodi:role="line"
-               id="tspan4569-32-4-6-1-3-3"
-               style="font-size:3.17499px;fill:#fffffe;fill-opacity:1;stroke-width:6"
-               x="68.063202"
-               y="50.36681">PWM</tspan></text>
         </g>
         <text
            xml:space="preserve"
@@ -2690,17 +954,1776 @@
                  y="21.889967">6.0 mm</tspan></text>
           </g>
         </g>
-        <text
-           xml:space="preserve"
-           style="font-weight:bold;font-size:3.96875px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';text-align:start;text-anchor:start;fill:#ff00c6;fill-opacity:1;stroke:none;stroke-width:0.0499999;stroke-dasharray:none;stroke-opacity:1"
-           x="8.2199497"
-           y="41.205215"
-           id="text10557"><tspan
-             sodipodi:role="line"
-             id="tspan10555"
-             style="font-size:3.96875px;fill:#007fba;fill-opacity:1;stroke-width:0.05"
-             x="8.2199497"
-             y="41.205215">SOP16</tspan></text>
+        <g
+           id="g2129">
+          <g
+             id="g1691">
+            <g
+               id="g1528">
+              <rect
+                 style="fill:#000004;stroke-width:6"
+                 id="rect111"
+                 width="11.700001"
+                 height="30"
+                 x="-80.850006"
+                 y="-45.135002"
+                 ry="1.0666192"
+                 transform="scale(-1)" />
+              <path
+                 d="m 71.283033,18.313551 v 0.839346 l 3.100926,1.290106 -3.100926,1.290107 v 0.839346 h 1.632066 c -1.287882,0.9462 -1.629666,1.879837 -1.632066,3.419559 h 3.225273 v 2.580213 h -3.225273 v 0.839346 h 7.49973 V 28.572228 H 75.55749 v -2.580213 h 3.225273 c 0.0129,-1.953174 -0.453117,-2.725792 -1.632066,-3.419559 h 1.632066 V 21.73311 h -4.915626 l 1.690353,-0.870434 -0.0076,-0.839346 -1.682775,-0.870433 h 4.915626 v -0.839346 z m 1.130787,6.839118 c -0.0228,-0.728511 0.690534,-1.782205 1.764186,-2.176083 0.349728,-0.120345 1.22352,-0.149649 1.709784,0 1.271724,0.390239 1.783599,1.337922 1.80693,2.176083 z"
+                 id="path115"
+                 sodipodi:nodetypes="ccccccccccccccccccccccccccccccc"
+                 style="fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.00347562" />
+              <text
+                 xml:space="preserve"
+                 style="font-weight:bold;font-size:4.05276px;font-family:'Iosevka Fixed';-inkscape-font-specification:'Iosevka Fixed Bold';fill:#646464;fill-opacity:1;stroke-width:0.680784"
+                 x="30.759979"
+                 y="-75.832504"
+                 id="text1111"
+                 transform="rotate(90)"><tspan
+                   sodipodi:role="line"
+                   id="tspan1109"
+                   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Arial Narrow';-inkscape-font-specification:'Arial Narrow Bold';stroke-width:0.680784"
+                   x="30.759979"
+                   y="-75.832504">CH552G</tspan></text>
+              <text
+                 xml:space="preserve"
+                 style="font-weight:bold;font-size:3.09564px;font-family:'Iosevka Fixed';-inkscape-font-specification:'Iosevka Fixed Bold';fill:#646464;fill-opacity:1;stroke-width:0.680784"
+                 x="30.796452"
+                 y="-71.289307"
+                 id="text1111-3"
+                 transform="rotate(90)"><tspan
+                   sodipodi:role="line"
+                   id="tspan1109-3"
+                   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.09564px;font-family:'Arial Narrow';-inkscape-font-specification:'Arial Narrow Bold';stroke-width:0.680784"
+                   x="30.796452"
+                   y="-71.289307">405815815</tspan></text>
+              <circle
+                 style="fill:#646464;fill-opacity:1;stroke-width:6"
+                 id="path1215"
+                 cx="-70.954826"
+                 cy="-16.939838"
+                 r="0.90416431"
+                 transform="scale(-1)" />
+              <rect
+                 style="fill:#646464;fill-opacity:1;stroke-width:5.74173"
+                 id="rect1269"
+                 width="0.55036092"
+                 height="12.599999"
+                 x="-74.923851"
+                 y="-43.502247"
+                 ry="0.252"
+                 transform="scale(-1)" />
+            </g>
+            <g
+               id="g1630">
+              <rect
+                 style="fill:#969696;fill-opacity:1;stroke-width:6"
+                 id="rect1321"
+                 width="1.3499999"
+                 height="3.1499999"
+                 x="16.124996"
+                 y="-69.149994"
+                 ry="0"
+                 transform="rotate(90)" />
+              <text
+                 xml:space="preserve"
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.5875px;font-family:'Arial Narrow';-inkscape-font-specification:'Arial Narrow Bold';fill:#646464;fill-opacity:1;stroke-width:6"
+                 x="67.265427"
+                 y="17.383404"
+                 id="text1325"><tspan
+                   sodipodi:role="line"
+                   id="tspan1323"
+                   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.5875px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#000000;fill-opacity:1;stroke-width:6"
+                   x="67.265427"
+                   y="17.383404">1</tspan></text>
+              <rect
+                 style="fill:#969696;fill-opacity:1;stroke-width:6"
+                 id="rect1644"
+                 width="1.3499999"
+                 height="3.1499999"
+                 x="19.934998"
+                 y="-69.149994"
+                 ry="0"
+                 transform="rotate(90)" />
+              <text
+                 xml:space="preserve"
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.5875px;font-family:'Arial Narrow';-inkscape-font-specification:'Arial Narrow Bold';fill:#646464;fill-opacity:1;stroke-width:6"
+                 x="67.176529"
+                 y="21.193405"
+                 id="text1648"><tspan
+                   sodipodi:role="line"
+                   id="tspan1646"
+                   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.5875px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#000000;fill-opacity:1;stroke-width:6"
+                   x="67.176529"
+                   y="21.193405">2</tspan></text>
+              <rect
+                 style="fill:#969696;fill-opacity:1;stroke-width:6"
+                 id="rect1652"
+                 width="1.3499999"
+                 height="3.1499999"
+                 x="23.744999"
+                 y="-69.149994"
+                 ry="0"
+                 transform="rotate(90)" />
+              <text
+                 xml:space="preserve"
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.5875px;font-family:'Arial Narrow';-inkscape-font-specification:'Arial Narrow Bold';fill:#646464;fill-opacity:1;stroke-width:6"
+                 x="67.173355"
+                 y="25.003407"
+                 id="text1656"><tspan
+                   sodipodi:role="line"
+                   id="tspan1654"
+                   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.5875px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#000000;fill-opacity:1;stroke-width:6"
+                   x="67.173355"
+                   y="25.003407">3</tspan></text>
+              <rect
+                 style="fill:#969696;fill-opacity:1;stroke-width:6"
+                 id="rect1660"
+                 width="1.3499999"
+                 height="3.1499999"
+                 x="27.554998"
+                 y="-69.149994"
+                 ry="0"
+                 transform="rotate(90)" />
+              <text
+                 xml:space="preserve"
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.5875px;font-family:'Arial Narrow';-inkscape-font-specification:'Arial Narrow Bold';fill:#646464;fill-opacity:1;stroke-width:6"
+                 x="67.184471"
+                 y="28.813404"
+                 id="text1664"><tspan
+                   sodipodi:role="line"
+                   id="tspan1662"
+                   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.5875px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#000000;fill-opacity:1;stroke-width:6"
+                   x="67.184471"
+                   y="28.813404">4</tspan></text>
+              <rect
+                 style="fill:#969696;fill-opacity:1;stroke-width:6"
+                 id="rect1668"
+                 width="1.3499999"
+                 height="3.1499999"
+                 x="31.365002"
+                 y="-69.149994"
+                 ry="0"
+                 transform="rotate(90)" />
+              <text
+                 xml:space="preserve"
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.5875px;font-family:'Arial Narrow';-inkscape-font-specification:'Arial Narrow Bold';fill:#646464;fill-opacity:1;stroke-width:6"
+                 x="67.172562"
+                 y="32.623405"
+                 id="text1672"><tspan
+                   sodipodi:role="line"
+                   id="tspan1670"
+                   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.5875px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#000000;fill-opacity:1;stroke-width:6"
+                   x="67.172562"
+                   y="32.623405">5</tspan></text>
+              <rect
+                 style="fill:#969696;fill-opacity:1;stroke-width:6"
+                 id="rect1676"
+                 width="1.3499999"
+                 height="3.1499999"
+                 x="35.174999"
+                 y="-69.149994"
+                 ry="0"
+                 transform="rotate(90)" />
+              <text
+                 xml:space="preserve"
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.5875px;font-family:'Arial Narrow';-inkscape-font-specification:'Arial Narrow Bold';fill:#646464;fill-opacity:1;stroke-width:6"
+                 x="67.178116"
+                 y="36.433403"
+                 id="text1680"><tspan
+                   sodipodi:role="line"
+                   id="tspan1678"
+                   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.5875px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#000000;fill-opacity:1;stroke-width:6"
+                   x="67.178116"
+                   y="36.433403">6</tspan></text>
+              <rect
+                 style="fill:#969696;fill-opacity:1;stroke-width:6"
+                 id="rect1684"
+                 width="1.3499999"
+                 height="3.1499999"
+                 x="38.985001"
+                 y="-69.149994"
+                 ry="0"
+                 transform="rotate(90)" />
+              <text
+                 xml:space="preserve"
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.5875px;font-family:'Arial Narrow';-inkscape-font-specification:'Arial Narrow Bold';fill:#646464;fill-opacity:1;stroke-width:6"
+                 x="67.178116"
+                 y="40.243408"
+                 id="text1688"><tspan
+                   sodipodi:role="line"
+                   id="tspan1686"
+                   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.5875px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#000000;fill-opacity:1;stroke-width:6"
+                   x="67.178116"
+                   y="40.243408">7</tspan></text>
+              <rect
+                 style="fill:#969696;fill-opacity:1;stroke-width:6"
+                 id="rect1692"
+                 width="1.3499999"
+                 height="3.1499999"
+                 x="42.795002"
+                 y="-69.149994"
+                 ry="0"
+                 transform="rotate(90)" />
+              <text
+                 xml:space="preserve"
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.5875px;font-family:'Arial Narrow';-inkscape-font-specification:'Arial Narrow Bold';fill:#646464;fill-opacity:1;stroke-width:6"
+                 x="67.178116"
+                 y="44.053406"
+                 id="text1696"><tspan
+                   sodipodi:role="line"
+                   id="tspan1694"
+                   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.5875px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#000000;fill-opacity:1;stroke-width:6"
+                   x="67.178116"
+                   y="44.053406">8</tspan></text>
+            </g>
+            <g
+               id="g6661"
+               transform="matrix(3,0,0,3,0,12)">
+              <rect
+                 style="fill:#969696;fill-opacity:1;stroke-width:2"
+                 id="rect1321-9"
+                 width="0.44999999"
+                 height="1.05"
+                 x="1.3750001"
+                 y="-28"
+                 ry="0"
+                 transform="rotate(90)" />
+              <text
+                 xml:space="preserve"
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.529167px;font-family:'Arial Narrow';-inkscape-font-specification:'Arial Narrow Bold';fill:#646464;fill-opacity:1;stroke-width:2"
+                 x="27.209621"
+                 y="1.7944695"
+                 id="text1325-0"><tspan
+                   sodipodi:role="line"
+                   id="tspan1323-7"
+                   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.529167px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#000000;fill-opacity:1;stroke-width:2"
+                   x="27.209621"
+                   y="1.7944695">16</tspan></text>
+              <rect
+                 style="fill:#969696;fill-opacity:1;stroke-width:2"
+                 id="rect1644-6"
+                 width="0.44999999"
+                 height="1.05"
+                 x="2.6450016"
+                 y="-28"
+                 ry="0"
+                 transform="rotate(90)" />
+              <text
+                 xml:space="preserve"
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.529167px;font-family:'Arial Narrow';-inkscape-font-specification:'Arial Narrow Bold';fill:#646464;fill-opacity:1;stroke-width:2"
+                 x="27.209621"
+                 y="3.0644701"
+                 id="text1648-8"><tspan
+                   sodipodi:role="line"
+                   id="tspan1646-3"
+                   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.529167px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#000000;fill-opacity:1;stroke-width:2"
+                   x="27.209621"
+                   y="3.0644701">15</tspan></text>
+              <rect
+                 style="fill:#969696;fill-opacity:1;stroke-width:2"
+                 id="rect1652-8"
+                 width="0.44999999"
+                 height="1.05"
+                 x="3.9150016"
+                 y="-28"
+                 ry="0"
+                 transform="rotate(90)" />
+              <text
+                 xml:space="preserve"
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.529167px;font-family:'Arial Narrow';-inkscape-font-specification:'Arial Narrow Bold';fill:#646464;fill-opacity:1;stroke-width:2"
+                 x="27.211739"
+                 y="4.3344703"
+                 id="text1656-6"><tspan
+                   sodipodi:role="line"
+                   id="tspan1654-1"
+                   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.529167px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#000000;fill-opacity:1;stroke-width:2"
+                   x="27.211739"
+                   y="4.3344703">14</tspan></text>
+              <rect
+                 style="fill:#969696;fill-opacity:1;stroke-width:2"
+                 id="rect1660-9"
+                 width="0.44999999"
+                 height="1.05"
+                 x="5.1850009"
+                 y="-28"
+                 ry="0"
+                 transform="rotate(90)" />
+              <text
+                 xml:space="preserve"
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.529167px;font-family:'Arial Narrow';-inkscape-font-specification:'Arial Narrow Bold';fill:#646464;fill-opacity:1;stroke-width:2"
+                 x="27.207504"
+                 y="5.6044698"
+                 id="text1664-6"><tspan
+                   sodipodi:role="line"
+                   id="tspan1662-7"
+                   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.529167px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#000000;fill-opacity:1;stroke-width:2"
+                   x="27.207504"
+                   y="5.6044698">13</tspan></text>
+              <rect
+                 style="fill:#969696;fill-opacity:1;stroke-width:2"
+                 id="rect1668-8"
+                 width="0.44999999"
+                 height="1.05"
+                 x="6.4550014"
+                 y="-28"
+                 ry="0"
+                 transform="rotate(90)" />
+              <text
+                 xml:space="preserve"
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.529167px;font-family:'Arial Narrow';-inkscape-font-specification:'Arial Narrow Bold';fill:#646464;fill-opacity:1;stroke-width:2"
+                 x="27.210682"
+                 y="6.8744702"
+                 id="text1672-9"><tspan
+                   sodipodi:role="line"
+                   id="tspan1670-7"
+                   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.529167px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#000000;fill-opacity:1;stroke-width:2"
+                   x="27.210682"
+                   y="6.8744702">12</tspan></text>
+              <rect
+                 style="fill:#969696;fill-opacity:1;stroke-width:2"
+                 id="rect1676-5"
+                 width="0.44999999"
+                 height="1.05"
+                 x="7.7250009"
+                 y="-28"
+                 ry="0"
+                 transform="rotate(90)" />
+              <text
+                 xml:space="preserve"
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.529167px;font-family:'Arial Narrow';-inkscape-font-specification:'Arial Narrow Bold';fill:#646464;fill-opacity:1;stroke-width:2"
+                 x="27.239521"
+                 y="8.1444702"
+                 id="text1680-5"><tspan
+                   sodipodi:role="line"
+                   id="tspan1678-2"
+                   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.529167px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#000000;fill-opacity:1;stroke-width:2"
+                   x="27.239521"
+                   y="8.1444702">11</tspan></text>
+              <rect
+                 style="fill:#969696;fill-opacity:1;stroke-width:2"
+                 id="rect1684-4"
+                 width="0.44999999"
+                 height="1.05"
+                 x="8.9950018"
+                 y="-28"
+                 ry="0"
+                 transform="rotate(90)" />
+              <text
+                 xml:space="preserve"
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.529167px;font-family:'Arial Narrow';-inkscape-font-specification:'Arial Narrow Bold';fill:#646464;fill-opacity:1;stroke-width:2"
+                 x="27.209621"
+                 y="9.4144707"
+                 id="text1688-9"><tspan
+                   sodipodi:role="line"
+                   id="tspan1686-4"
+                   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.529167px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#000000;fill-opacity:1;stroke-width:2"
+                   x="27.209621"
+                   y="9.4144707">10</tspan></text>
+              <rect
+                 style="fill:#969696;fill-opacity:1;stroke-width:2"
+                 id="rect1692-4"
+                 width="0.44999999"
+                 height="1.05"
+                 x="10.265002"
+                 y="-28"
+                 ry="0"
+                 transform="rotate(90)" />
+              <text
+                 xml:space="preserve"
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.529167px;font-family:'Arial Narrow';-inkscape-font-specification:'Arial Narrow Bold';fill:#646464;fill-opacity:1;stroke-width:2"
+                 x="27.342709"
+                 y="10.684471"
+                 id="text1696-7"><tspan
+                   sodipodi:role="line"
+                   id="tspan1694-9"
+                   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.529167px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#000000;fill-opacity:1;stroke-width:2"
+                   x="27.342709"
+                   y="10.684471">9</tspan></text>
+            </g>
+          </g>
+          <g
+             id="g1880">
+            <rect
+               style="fill:#000000;fill-opacity:1;stroke-width:5.14107"
+               id="rect2654-2-2"
+               width="54"
+               height="0.45000002"
+               x="84"
+               y="28.005003"
+               ry="0" />
+            <rect
+               style="fill:#000000;fill-opacity:1;stroke-width:5.14107"
+               id="rect2654-5-1"
+               width="54"
+               height="0.45000002"
+               x="84"
+               y="31.815004"
+               ry="0" />
+            <rect
+               style="fill:#000000;fill-opacity:1;stroke-width:4.69314"
+               id="rect2654-1-8"
+               width="45"
+               height="0.45000002"
+               x="84"
+               y="35.625004"
+               ry="0" />
+            <rect
+               style="fill:#000000;fill-opacity:1;stroke-width:2.09883"
+               id="rect2654-2-2-5"
+               width="9"
+               height="0.45000002"
+               x="84"
+               y="16.575001"
+               ry="0" />
+            <rect
+               style="fill:#000000;fill-opacity:1;stroke-width:2.09883"
+               id="rect2654-5-1-9"
+               width="9"
+               height="0.45000002"
+               x="84"
+               y="20.385006"
+               ry="0" />
+            <rect
+               style="fill:#000000;fill-opacity:1;stroke-width:2.29916"
+               id="rect2654-1-8-0"
+               width="9"
+               height="0.54000002"
+               x="84"
+               y="24.150005"
+               ry="0" />
+            <rect
+               style="fill:#000000;fill-opacity:1;stroke-width:4.69314"
+               id="rect2654-3-7"
+               width="45"
+               height="0.45000002"
+               x="84"
+               y="39.435005"
+               ry="0" />
+            <rect
+               style="fill:#000000;fill-opacity:1;stroke-width:5.553"
+               id="rect2654-9-1"
+               width="63"
+               height="0.45000002"
+               x="84"
+               y="43.245007"
+               ry="0" />
+            <rect
+               style="fill:#ff0000;fill-opacity:1;stroke-width:6.04287"
+               id="rect2281"
+               width="8.7000008"
+               height="3.6000001"
+               x="84.299995"
+               y="15"
+               ry="0.67507601" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.17499px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#f50000;fill-opacity:1;stroke-width:6"
+               x="86.243362"
+               y="17.966808"
+               id="text4571"><tspan
+                 sodipodi:role="line"
+                 id="tspan4569"
+                 style="font-size:3.17499px;fill:#fffffe;fill-opacity:1;stroke-width:6"
+                 x="86.243362"
+                 y="17.966808">V33</tspan></text>
+            <rect
+               style="fill:#ff0000;fill-opacity:1;stroke-width:6.04287"
+               id="rect2281-1"
+               width="8.7000008"
+               height="3.6000001"
+               x="84.299995"
+               y="18.810003"
+               ry="0.67507601" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.17499px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#f50000;fill-opacity:1;stroke-width:6"
+               x="86.265587"
+               y="21.776814"
+               id="text4571-7"><tspan
+                 sodipodi:role="line"
+                 id="tspan4569-3"
+                 style="font-size:3.17499px;fill:#fffffe;fill-opacity:1;stroke-width:6"
+                 x="86.265587"
+                 y="21.776814">VCC</tspan></text>
+            <rect
+               style="fill:#000000;fill-opacity:1;stroke-width:6.04287"
+               id="rect2281-1-7"
+               width="8.7000008"
+               height="3.6000001"
+               x="84.299995"
+               y="22.620003"
+               ry="0.67507601" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.17499px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#f50000;fill-opacity:1;stroke-width:6"
+               x="86.268753"
+               y="25.586811"
+               id="text4571-7-0"><tspan
+                 sodipodi:role="line"
+                 id="tspan4569-3-3"
+                 style="font-size:3.17499px;fill:#fffffe;fill-opacity:1;stroke-width:6"
+                 x="86.268753"
+                 y="25.586811">GND</tspan></text>
+            <rect
+               style="fill:#0000ff;fill-opacity:1;stroke-width:6.04287"
+               id="rect2281-1-9"
+               width="8.7000008"
+               height="3.6000001"
+               x="84.299995"
+               y="26.430004"
+               ry="0.67507601" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.17499px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#f50000;fill-opacity:1;stroke-width:6"
+               x="85.451202"
+               y="29.396812"
+               id="text4571-7-1"><tspan
+                 sodipodi:role="line"
+                 id="tspan4569-3-4"
+                 style="font-size:3.17499px;fill:#fffffe;fill-opacity:1;stroke-width:6"
+                 x="85.451202"
+                 y="29.396812">P3.7</tspan></text>
+            <rect
+               style="fill:#0000ff;fill-opacity:1;stroke-width:6.04287"
+               id="rect2281-1-4"
+               width="8.7000008"
+               height="3.6000001"
+               x="84.299995"
+               y="30.240002"
+               ry="0.67507601" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.17499px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#f50000;fill-opacity:1;stroke-width:6"
+               x="85.438499"
+               y="33.20681"
+               id="text4571-7-6"><tspan
+                 sodipodi:role="line"
+                 id="tspan4569-3-1"
+                 style="font-size:3.17499px;fill:#fffffe;fill-opacity:1;stroke-width:6"
+                 x="85.438499"
+                 y="33.20681">P3.6</tspan></text>
+            <rect
+               style="fill:#0000ff;fill-opacity:1;stroke-width:6.04287"
+               id="rect2281-1-2"
+               width="8.7000008"
+               height="3.6000001"
+               x="84.299995"
+               y="34.050003"
+               ry="0.67507601" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.17499px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#f50000;fill-opacity:1;stroke-width:6"
+               x="85.451202"
+               y="37.016815"
+               id="text4571-7-4"><tspan
+                 sodipodi:role="line"
+                 id="tspan4569-3-0"
+                 style="font-size:3.17499px;fill:#fffffe;fill-opacity:1;stroke-width:6"
+                 x="85.451202"
+                 y="37.016815">P3.4</tspan></text>
+            <rect
+               style="fill:#0000ff;fill-opacity:1;stroke-width:6.04287"
+               id="rect2281-1-3"
+               width="8.7000008"
+               height="3.6000001"
+               x="84.299995"
+               y="37.860001"
+               ry="0.67507601" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.17499px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#f50000;fill-opacity:1;stroke-width:6"
+               x="85.425812"
+               y="40.826813"
+               id="text4571-7-17"><tspan
+                 sodipodi:role="line"
+                 id="tspan4569-3-9"
+                 style="font-size:3.17499px;fill:#fffffe;fill-opacity:1;stroke-width:6"
+                 x="85.425812"
+                 y="40.826813">P3.3</tspan></text>
+            <rect
+               style="fill:#0000ff;fill-opacity:1;stroke-width:6.04287"
+               id="rect2281-1-0"
+               width="8.7000008"
+               height="3.6000001"
+               x="84.299995"
+               y="41.670006"
+               ry="0.67507601" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.17499px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#f50000;fill-opacity:1;stroke-width:6"
+               x="85.617889"
+               y="44.636818"
+               id="text4571-7-11"><tspan
+                 sodipodi:role="line"
+                 id="tspan4569-3-5"
+                 style="font-size:3.17499px;fill:#fffffe;fill-opacity:1;stroke-width:6"
+                 x="85.617889"
+                 y="44.636818">P1.1</tspan></text>
+            <rect
+               style="fill:#d07700;fill-opacity:1;stroke-width:6.04287"
+               id="rect2281-3-2"
+               width="8.7000008"
+               height="3.6000001"
+               x="120.3"
+               y="34.050003"
+               ry="0.67507601" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.17499px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#f50000;fill-opacity:1;stroke-width:6"
+               x="122.24336"
+               y="37.016815"
+               id="text4571-1-3"><tspan
+                 sodipodi:role="line"
+                 id="tspan4569-32-5"
+                 style="font-size:3.17499px;fill:#fffffe;fill-opacity:1;stroke-width:6"
+                 x="122.24336"
+                 y="37.016815">T2_</tspan></text>
+            <rect
+               style="fill:#ff007f;fill-opacity:1;stroke-width:6.04287"
+               id="rect2281-3-3-0-7"
+               width="8.7000008"
+               height="3.6000001"
+               x="111.3"
+               y="34.050003"
+               ry="0.67507601" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.17499px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#f50000;fill-opacity:1;stroke-width:6"
+               x="111.69397"
+               y="37.016815"
+               id="text4571-1-4-3-9"><tspan
+                 sodipodi:role="line"
+                 id="tspan4569-32-4-66-6"
+                 style="font-size:3.17499px;fill:#fffffe;fill-opacity:1;stroke-width:6"
+                 x="111.69397"
+                 y="37.016815">RXD1_</tspan></text>
+            <rect
+               style="fill:#d07700;fill-opacity:1;stroke-width:6.04287"
+               id="rect2281-3-6-7"
+               width="8.7000008"
+               height="3.6000001"
+               x="93.299995"
+               y="41.670006"
+               ry="0.67507601" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.17499px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#f50000;fill-opacity:1;stroke-width:6"
+               x="94.494064"
+               y="44.636818"
+               id="text4571-1-6-9"><tspan
+                 sodipodi:role="line"
+                 id="tspan4569-32-44-9"
+                 style="font-size:3.17499px;fill:#fffffe;fill-opacity:1;stroke-width:6"
+                 x="94.494064"
+                 y="44.636818">T2EX</tspan></text>
+            <rect
+               style="fill:#d07700;fill-opacity:1;stroke-width:6.04287"
+               id="rect2281-3-3-5-4"
+               width="8.7000008"
+               height="3.6000001"
+               x="102.3"
+               y="41.670006"
+               ry="0.67507601" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.17499px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#f50000;fill-opacity:1;stroke-width:6"
+               x="103.48137"
+               y="44.636818"
+               id="text4571-1-4-7-4"><tspan
+                 sodipodi:role="line"
+                 id="tspan4569-32-4-6-1"
+                 style="font-size:3.17499px;fill:#fffffe;fill-opacity:1;stroke-width:6"
+                 x="103.48137"
+                 y="44.636818">CAP2</tspan></text>
+            <rect
+               style="fill:#003782;fill-opacity:1;stroke-width:6.04287"
+               id="rect2281-3-3-5-4-7-4"
+               width="8.7000008"
+               height="3.6000001"
+               x="102.3"
+               y="34.050003"
+               ry="0.67507601" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.17499px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#f50000;fill-opacity:1;stroke-width:6"
+               x="103.48137"
+               y="37.016815"
+               id="text4571-1-4-7-4-7-7"><tspan
+                 sodipodi:role="line"
+                 id="tspan4569-32-4-6-1-3-8"
+                 style="font-size:3.17499px;fill:#fffffe;fill-opacity:1;stroke-width:6"
+                 x="103.48137"
+                 y="37.016815">PWM2</tspan></text>
+            <rect
+               style="fill:#00c196;fill-opacity:1;stroke-width:6.04287"
+               id="rect2281-1-4-2-1-4"
+               width="8.7000008"
+               height="3.6000001"
+               x="120.3"
+               y="41.670006"
+               ry="0.67507601" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.17499px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#f50000;fill-opacity:1;stroke-width:6"
+               x="121.4512"
+               y="44.636818"
+               id="text4571-7-6-8-2-5"><tspan
+                 sodipodi:role="line"
+                 id="tspan4569-3-1-2-2-3"
+                 style="font-size:3.17499px;fill:#fffffe;fill-opacity:1;stroke-width:6"
+                 x="121.4512"
+                 y="44.636818">TIN1</tspan><tspan
+                 sodipodi:role="line"
+                 style="font-size:3.17499px;fill:#fffffe;fill-opacity:1;stroke-width:6"
+                 x="121.4512"
+                 y="48.605556"
+                 id="tspan13008-9" /></text>
+            <rect
+               style="fill:#b440ff;fill-opacity:1;stroke-width:6.04287"
+               id="rect2281-1-4-2-1-4-5"
+               width="8.7000008"
+               height="3.6000001"
+               x="120.3"
+               y="37.860001"
+               ry="0.67507601" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.17499px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#f50000;fill-opacity:1;stroke-width:6"
+               x="121.4512"
+               y="40.826813"
+               id="text4571-7-6-8-2-5-7"><tspan
+                 sodipodi:role="line"
+                 id="tspan4569-3-1-2-2-3-4"
+                 style="font-size:3.17499px;fill:#fffffe;fill-opacity:1;stroke-width:6"
+                 x="121.4512"
+                 y="40.826813">INT1</tspan><tspan
+                 sodipodi:role="line"
+                 style="font-size:3.17499px;fill:#fffffe;fill-opacity:1;stroke-width:6"
+                 x="121.4512"
+                 y="44.795551"
+                 id="tspan13008-9-5" /></text>
+            <rect
+               style="fill:#00beff;fill-opacity:1;stroke-width:6.04287"
+               id="rect2281-1-2-4-2-5-7-7"
+               width="8.7000008"
+               height="3.6000001"
+               x="138.29999"
+               y="41.670006"
+               ry="0.67507601" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.17499px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#f50000;fill-opacity:1;stroke-width:6"
+               x="139.46866"
+               y="44.636818"
+               id="text4571-7-4-8-3-2-8-4"><tspan
+                 sodipodi:role="line"
+                 id="tspan4569-3-0-3-0-2-8-8"
+                 style="font-size:3.17499px;fill:#fffffe;fill-opacity:1;stroke-width:6"
+                 x="139.46866"
+                 y="44.636818">AIN0</tspan><tspan
+                 sodipodi:role="line"
+                 style="font-size:3.17499px;fill:#fffffe;fill-opacity:1;stroke-width:6"
+                 x="139.46866"
+                 y="48.605556"
+                 id="tspan2262" /></text>
+            <rect
+               style="fill:#ff7f7f;fill-opacity:1;stroke-width:6.04287"
+               id="rect2281-1-2-4-2-2"
+               width="8.7000008"
+               height="3.6000001"
+               x="129.29999"
+               y="41.670006"
+               ry="0.67507601" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.17499px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#f50000;fill-opacity:1;stroke-width:6"
+               x="129.66223"
+               y="44.636818"
+               id="text4571-7-4-8-3-4"><tspan
+                 sodipodi:role="line"
+                 id="tspan4569-3-0-3-0-8"
+                 style="font-size:3.17499px;fill:#fffffe;fill-opacity:1;stroke-width:6"
+                 x="129.66223"
+                 y="44.636818">VBUS2</tspan></text>
+            <rect
+               style="fill:#ff7f7f;fill-opacity:1;stroke-width:6.04287"
+               id="rect2281-1-2-4-2-8-9"
+               width="8.7000008"
+               height="3.6000001"
+               x="129.29999"
+               y="26.430004"
+               ry="0.67507601" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.17499px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#f50000;fill-opacity:1;stroke-width:6"
+               x="131.23701"
+               y="29.396811"
+               id="text4571-7-4-8-3-3-0"><tspan
+                 sodipodi:role="line"
+                 id="tspan4569-3-0-3-0-9-5"
+                 style="font-size:3.17499px;fill:#fffffe;fill-opacity:1;stroke-width:6"
+                 x="131.23701"
+                 y="29.396811">UDM</tspan></text>
+            <rect
+               style="fill:#ff7f7f;fill-opacity:1;stroke-width:6.04287"
+               id="rect2281-1-2-4-2-5-2"
+               width="8.7000008"
+               height="3.6000001"
+               x="129.29999"
+               y="30.240002"
+               ry="0.67507601" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.17499px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#f50000;fill-opacity:1;stroke-width:6"
+               x="131.24336"
+               y="33.20681"
+               id="text4571-7-4-8-3-2-7"><tspan
+                 sodipodi:role="line"
+                 id="tspan4569-3-0-3-0-2-3"
+                 style="font-size:3.17499px;fill:#fffffe;fill-opacity:1;stroke-width:6"
+                 x="131.24336"
+                 y="33.20681">UDP</tspan></text>
+          </g>
+          <g
+             id="g1810">
+            <rect
+               style="fill:#000000;fill-opacity:1;stroke-width:5.553"
+               id="rect2654"
+               width="63"
+               height="0.45000002"
+               x="3"
+               y="16.574995"
+               ry="0" />
+            <rect
+               style="fill:#000000;fill-opacity:1;stroke-width:5.553"
+               id="rect2654-8"
+               width="63"
+               height="0.45000002"
+               x="3"
+               y="20.384998"
+               ry="0" />
+            <rect
+               style="fill:#000000;fill-opacity:1;stroke-width:5.553"
+               id="rect2654-6"
+               width="63"
+               height="0.45000002"
+               x="3"
+               y="24.195"
+               ry="0" />
+            <rect
+               style="fill:#000000;fill-opacity:1;stroke-width:4.69314"
+               id="rect2654-2"
+               width="45"
+               height="0.45000002"
+               x="21"
+               y="28.004999"
+               ry="0" />
+            <rect
+               style="fill:#000000;fill-opacity:1;stroke-width:4.69314"
+               id="rect2654-5"
+               width="45"
+               height="0.45000002"
+               x="21"
+               y="31.815002"
+               ry="0" />
+            <rect
+               style="fill:#000000;fill-opacity:1;stroke-width:3.63528"
+               id="rect2654-1"
+               width="27"
+               height="0.45000002"
+               x="39"
+               y="35.625"
+               ry="0" />
+            <rect
+               style="fill:#000000;fill-opacity:1;stroke-width:4.19766"
+               id="rect2654-3"
+               width="36"
+               height="0.45000002"
+               x="30"
+               y="39.434998"
+               ry="0" />
+            <rect
+               style="fill:#000000;fill-opacity:1;stroke-width:4.19766"
+               id="rect2654-9"
+               width="36"
+               height="0.45000002"
+               x="30"
+               y="43.244999"
+               ry="0" />
+            <rect
+               style="fill:#d07700;fill-opacity:1;stroke-width:6.04287"
+               id="rect2281-3"
+               width="8.7000008"
+               height="3.6000001"
+               x="47.999992"
+               y="18.810003"
+               ry="0.67507601" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.17499px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#f50000;fill-opacity:1;stroke-width:6"
+               x="49.943359"
+               y="21.776814"
+               id="text4571-1"><tspan
+                 sodipodi:role="line"
+                 id="tspan4569-32"
+                 style="font-size:3.17499px;fill:#fffffe;fill-opacity:1;stroke-width:6"
+                 x="49.943359"
+                 y="21.776814">T2_</tspan></text>
+            <rect
+               style="fill:#d07700;fill-opacity:1;stroke-width:6.04287"
+               id="rect2281-3-3"
+               width="8.7000008"
+               height="3.6000001"
+               x="38.999992"
+               y="18.810003"
+               ry="0.67507601" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.17499px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#f50000;fill-opacity:1;stroke-width:6"
+               x="39.393967"
+               y="21.776814"
+               id="text4571-1-4"><tspan
+                 sodipodi:role="line"
+                 id="tspan4569-32-4"
+                 style="font-size:3.17499px;fill:#fffffe;fill-opacity:1;stroke-width:6"
+                 x="39.393967"
+                 y="21.776814">CAP1_</tspan></text>
+            <rect
+               style="fill:#ff007f;fill-opacity:1;stroke-width:6.04287"
+               id="rect2281-3-3-0"
+               width="8.7000008"
+               height="3.6000001"
+               x="30"
+               y="15"
+               ry="0.67507601" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.17499px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#f50000;fill-opacity:1;stroke-width:6"
+               x="30.393974"
+               y="17.966808"
+               id="text4571-1-4-3"><tspan
+                 sodipodi:role="line"
+                 id="tspan4569-32-4-66"
+                 style="font-size:3.17499px;fill:#fffffe;fill-opacity:1;stroke-width:6"
+                 x="30.393974"
+                 y="17.966808">TXD1_</tspan></text>
+            <rect
+               style="fill:#ff007f;fill-opacity:1;stroke-width:6.04287"
+               id="rect2281-3-3-0-5"
+               width="8.7000008"
+               height="3.6000001"
+               x="30"
+               y="26.430004"
+               ry="0.67507601" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.17499px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#f50000;fill-opacity:1;stroke-width:6"
+               x="31.341705"
+               y="29.396812"
+               id="text4571-1-4-3-2"><tspan
+                 sodipodi:role="line"
+                 id="tspan4569-32-4-66-0"
+                 style="font-size:3.17499px;fill:#fffffe;fill-opacity:1;stroke-width:6"
+                 x="31.341705"
+                 y="29.396812">RXD1</tspan></text>
+            <rect
+               style="fill:#ff007f;fill-opacity:1;stroke-width:6.04287"
+               id="rect2281-3-3-0-1"
+               width="8.7000008"
+               height="3.6000001"
+               x="30"
+               y="30.240002"
+               ry="0.67507601" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.17499px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#f50000;fill-opacity:1;stroke-width:6"
+               x="31.360754"
+               y="33.20681"
+               id="text4571-1-4-3-24"><tspan
+                 sodipodi:role="line"
+                 id="tspan4569-32-4-66-5"
+                 style="font-size:3.17499px;fill:#fffffe;fill-opacity:1;stroke-width:6"
+                 x="31.360754"
+                 y="33.20681">TXD1</tspan></text>
+            <rect
+               style="fill:#ff007f;fill-opacity:1;stroke-width:6.04287"
+               id="rect2281-3-3-0-2"
+               width="8.7000008"
+               height="3.6000001"
+               x="30"
+               y="37.860001"
+               ry="0.67507601" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.17499px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#f50000;fill-opacity:1;stroke-width:6"
+               x="31.975113"
+               y="40.826813"
+               id="text4571-1-4-3-3"><tspan
+                 sodipodi:role="line"
+                 id="tspan4569-32-4-66-2"
+                 style="font-size:3.17499px;fill:#fffffe;fill-opacity:1;stroke-width:6"
+                 x="31.975113"
+                 y="40.826813">TXD</tspan></text>
+            <rect
+               style="fill:#ff007f;fill-opacity:1;stroke-width:6.04287"
+               id="rect2281-3-3-0-11"
+               width="8.7000008"
+               height="3.6000001"
+               x="30"
+               y="41.670006"
+               ry="0.67507601" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.17499px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#f50000;fill-opacity:1;stroke-width:6"
+               x="31.956062"
+               y="44.636818"
+               id="text4571-1-4-3-98"><tspan
+                 sodipodi:role="line"
+                 id="tspan4569-32-4-66-09"
+                 style="font-size:3.17499px;fill:#fffffe;fill-opacity:1;stroke-width:6"
+                 x="31.956062"
+                 y="44.636818">RXD</tspan></text>
+            <rect
+               style="fill:#d07700;fill-opacity:1;stroke-width:6.04287"
+               id="rect2281-3-6"
+               width="8.7000008"
+               height="3.6000001"
+               x="47.999992"
+               y="34.050003"
+               ry="0.67507601" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.17499px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#f50000;fill-opacity:1;stroke-width:6"
+               x="48.400322"
+               y="37.016815"
+               id="text4571-1-6"><tspan
+                 sodipodi:role="line"
+                 id="tspan4569-32-44"
+                 style="font-size:3.17499px;fill:#fffffe;fill-opacity:1;stroke-width:6"
+                 x="48.400322"
+                 y="37.016815">T2EX_</tspan></text>
+            <rect
+               style="fill:#d07700;fill-opacity:1;stroke-width:6.04287"
+               id="rect2281-3-3-5"
+               width="8.7000008"
+               height="3.6000001"
+               x="38.999992"
+               y="34.050003"
+               ry="0.67507601" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.17499px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#f50000;fill-opacity:1;stroke-width:6"
+               x="39.393967"
+               y="37.016815"
+               id="text4571-1-4-7"><tspan
+                 sodipodi:role="line"
+                 id="tspan4569-32-4-6"
+                 style="font-size:3.17499px;fill:#fffffe;fill-opacity:1;stroke-width:6"
+                 x="39.393967"
+                 y="37.016815">CAP2_</tspan></text>
+            <rect
+               style="fill:#ffbe00;fill-opacity:1;stroke-width:6.04287"
+               id="rect2281-3-6-7-7"
+               width="8.7000008"
+               height="3.6000001"
+               x="48"
+               y="22.620003"
+               ry="0.67507601" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.17499px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#f50000;fill-opacity:1;stroke-width:6"
+               x="49.194065"
+               y="25.586811"
+               id="text4571-1-6-9-6"><tspan
+                 sodipodi:role="line"
+                 id="tspan4569-32-44-9-8"
+                 style="font-size:3.17499px;fill:#fffffe;fill-opacity:1;stroke-width:6"
+                 x="49.194065"
+                 y="25.586811">MOSI</tspan></text>
+            <rect
+               style="fill:#ffbe00;fill-opacity:1;stroke-width:6.04287"
+               id="rect2281-3-6-7-3"
+               width="8.7000008"
+               height="3.6000001"
+               x="48"
+               y="26.430004"
+               ry="0.67507601" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.17499px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#f50000;fill-opacity:1;stroke-width:6"
+               x="49.194065"
+               y="29.396812"
+               id="text4571-1-6-9-8"><tspan
+                 sodipodi:role="line"
+                 id="tspan4569-32-44-9-0"
+                 style="font-size:3.17499px;fill:#fffffe;fill-opacity:1;stroke-width:6"
+                 x="49.194065"
+                 y="29.396812">MISO</tspan></text>
+            <rect
+               style="fill:#ffbe00;fill-opacity:1;stroke-width:6.04287"
+               id="rect2281-3-6-7-1"
+               width="8.7000008"
+               height="3.6000001"
+               x="48"
+               y="30.240002"
+               ry="0.67507601" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.17499px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#ffffff;fill-opacity:1;stroke-width:6"
+               x="49.971939"
+               y="33.20681"
+               id="text4571-1-6-9-1"><tspan
+                 sodipodi:role="line"
+                 id="tspan4569-32-44-9-87"
+                 style="font-size:3.17499px;fill:#ffffff;fill-opacity:1;stroke-width:6"
+                 x="49.971939"
+                 y="33.20681">SCK</tspan></text>
+            <rect
+               style="fill:#ffbe00;fill-opacity:1;stroke-width:6.04287"
+               id="rect2281-3-6-7-1-5"
+               width="8.7000008"
+               height="3.6000001"
+               x="30"
+               y="18.810003"
+               ry="0.67507601" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.17499px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#ffffff;fill-opacity:1;stroke-width:6"
+               x="31.971937"
+               y="21.776814"
+               id="text4571-1-6-9-1-8"><tspan
+                 sodipodi:role="line"
+                 id="tspan4569-32-44-9-87-8"
+                 style="font-size:3.17499px;fill:#ffffff;fill-opacity:1;stroke-width:6"
+                 x="31.971937"
+                 y="21.776814">SCS</tspan></text>
+            <rect
+               style="fill:#003782;fill-opacity:1;stroke-width:6.04287"
+               id="rect2281-3-3-5-4-7"
+               width="8.7000008"
+               height="3.6000001"
+               x="39"
+               y="22.620003"
+               ry="0.67507601" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.17499px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#f50000;fill-opacity:1;stroke-width:6"
+               x="40.181374"
+               y="25.586811"
+               id="text4571-1-4-7-4-7"><tspan
+                 sodipodi:role="line"
+                 id="tspan4569-32-4-6-1-3"
+                 style="font-size:3.17499px;fill:#fffffe;fill-opacity:1;stroke-width:6"
+                 x="40.181374"
+                 y="25.586811">PWM1</tspan></text>
+            <rect
+               style="fill:#003782;fill-opacity:1;stroke-width:6.04287"
+               id="rect2281-3-3-5-4-7-5"
+               width="8.7000008"
+               height="3.6000001"
+               x="39"
+               y="37.860001"
+               ry="0.67507601" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.17499px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#f50000;fill-opacity:1;stroke-width:6"
+               x="39.357468"
+               y="40.826813"
+               id="text4571-1-4-7-4-7-0"><tspan
+                 sodipodi:role="line"
+                 id="tspan4569-32-4-6-1-3-5"
+                 style="font-size:3.17499px;fill:#fffffe;fill-opacity:1;stroke-width:6"
+                 x="39.357468"
+                 y="40.826813">PWM2_</tspan></text>
+            <rect
+               style="fill:#003782;fill-opacity:1;stroke-width:6.04287"
+               id="rect2281-3-3-5-4-7-5-6"
+               width="8.7000008"
+               height="3.6000001"
+               x="39"
+               y="41.670006"
+               ry="0.67507601" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.17499px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#f50000;fill-opacity:1;stroke-width:6"
+               x="39.357468"
+               y="44.636818"
+               id="text4571-1-4-7-4-7-0-9"><tspan
+                 sodipodi:role="line"
+                 id="tspan4569-32-4-6-1-3-5-1"
+                 style="font-size:3.17499px;fill:#fffffe;fill-opacity:1;stroke-width:6"
+                 x="39.357468"
+                 y="44.636818">PWM1_</tspan></text>
+            <rect
+               style="fill:#0000ff;fill-opacity:1;stroke-width:6.04287"
+               id="rect2281-18"
+               width="8.7000008"
+               height="3.6000001"
+               x="56.999992"
+               y="15"
+               ry="0.67507601" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.17499px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#f50000;fill-opacity:1;stroke-width:6"
+               x="58.144855"
+               y="17.966808"
+               id="text4571-5"><tspan
+                 sodipodi:role="line"
+                 id="tspan4569-31"
+                 style="font-size:3.17499px;fill:#fffffe;fill-opacity:1;stroke-width:6"
+                 x="58.144855"
+                 y="17.966808">P3.2</tspan></text>
+            <rect
+               style="fill:#0000ff;fill-opacity:1;stroke-width:6.04287"
+               id="rect2281-1-93"
+               width="8.7000008"
+               height="3.6000001"
+               x="56.999992"
+               y="18.810003"
+               ry="0.67507601" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.17499px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#f50000;fill-opacity:1;stroke-width:6"
+               x="58.151199"
+               y="21.776814"
+               id="text4571-7-9"><tspan
+                 sodipodi:role="line"
+                 id="tspan4569-3-10"
+                 style="font-size:3.17499px;fill:#fffffe;fill-opacity:1;stroke-width:6"
+                 x="58.151199"
+                 y="21.776814">P1.4</tspan></text>
+            <rect
+               style="fill:#0000ff;fill-opacity:1;stroke-width:6.04287"
+               id="rect2281-1-7-4"
+               width="8.7000008"
+               height="3.6000001"
+               x="56.999992"
+               y="22.620003"
+               ry="0.67507601" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.17499px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#f50000;fill-opacity:1;stroke-width:6"
+               x="58.138504"
+               y="25.586811"
+               id="text4571-7-0-9"><tspan
+                 sodipodi:role="line"
+                 id="tspan4569-3-3-0"
+                 style="font-size:3.17499px;fill:#fffffe;fill-opacity:1;stroke-width:6"
+                 x="58.138504"
+                 y="25.586811">P1.5</tspan></text>
+            <rect
+               style="fill:#0000ff;fill-opacity:1;stroke-width:6.04287"
+               id="rect2281-1-9-0"
+               width="8.7000008"
+               height="3.6000001"
+               x="56.999992"
+               y="26.430004"
+               ry="0.67507601" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.17499px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#f50000;fill-opacity:1;stroke-width:6"
+               x="58.138504"
+               y="29.396812"
+               id="text4571-7-1-0"><tspan
+                 sodipodi:role="line"
+                 id="tspan4569-3-4-3"
+                 style="font-size:3.17499px;fill:#fffffe;fill-opacity:1;stroke-width:6"
+                 x="58.138504"
+                 y="29.396812">P1.6</tspan></text>
+            <rect
+               style="fill:#0000ff;fill-opacity:1;stroke-width:6.04287"
+               id="rect2281-1-4-2"
+               width="8.7000008"
+               height="3.6000001"
+               x="56.999992"
+               y="30.240002"
+               ry="0.67507601" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.17499px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#f50000;fill-opacity:1;stroke-width:6"
+               x="58.151199"
+               y="33.20681"
+               id="text4571-7-6-8"><tspan
+                 sodipodi:role="line"
+                 id="tspan4569-3-1-2"
+                 style="font-size:3.17499px;fill:#fffffe;fill-opacity:1;stroke-width:6"
+                 x="58.151199"
+                 y="33.20681">P1.7</tspan></text>
+            <rect
+               style="fill:#00c196;fill-opacity:1;stroke-width:6.04287"
+               id="rect2281-1-93-5"
+               width="8.7000008"
+               height="3.6000001"
+               x="21"
+               y="18.810003"
+               ry="0.67507601" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.17499px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#f50000;fill-opacity:1;stroke-width:6"
+               x="22.151207"
+               y="21.776814"
+               id="text4571-7-9-1"><tspan
+                 sodipodi:role="line"
+                 id="tspan4569-3-10-7"
+                 style="font-size:3.17499px;fill:#fffffe;fill-opacity:1;stroke-width:6"
+                 x="22.151207"
+                 y="21.776814">TIN2</tspan></text>
+            <rect
+               style="fill:#00c196;fill-opacity:1;stroke-width:6.04287"
+               id="rect2281-1-7-4-1"
+               width="8.7000008"
+               height="3.6000001"
+               x="21"
+               y="22.620003"
+               ry="0.67507601" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.17499px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#f50000;fill-opacity:1;stroke-width:6"
+               x="22.13851"
+               y="25.586811"
+               id="text4571-7-0-9-8"><tspan
+                 sodipodi:role="line"
+                 id="tspan4569-3-3-0-4"
+                 style="font-size:3.17499px;fill:#fffffe;fill-opacity:1;stroke-width:6"
+                 x="22.13851"
+                 y="25.586811">TIN3</tspan></text>
+            <rect
+               style="fill:#00c196;fill-opacity:1;stroke-width:6.04287"
+               id="rect2281-1-9-0-0"
+               width="8.7000008"
+               height="3.6000001"
+               x="21"
+               y="26.430004"
+               ry="0.67507601" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.17499px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#f50000;fill-opacity:1;stroke-width:6"
+               x="22.13851"
+               y="29.396812"
+               id="text4571-7-1-0-7"><tspan
+                 sodipodi:role="line"
+                 id="tspan4569-3-4-3-7"
+                 style="font-size:3.17499px;fill:#fffffe;fill-opacity:1;stroke-width:6"
+                 x="22.13851"
+                 y="29.396812">TIN4</tspan></text>
+            <rect
+               style="fill:#00c196;fill-opacity:1;stroke-width:6.04287"
+               id="rect2281-1-4-2-1"
+               width="8.7000008"
+               height="3.6000001"
+               x="21"
+               y="30.240002"
+               ry="0.67507601" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.17499px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#f50000;fill-opacity:1;stroke-width:6"
+               x="22.151207"
+               y="33.20681"
+               id="text4571-7-6-8-2"><tspan
+                 sodipodi:role="line"
+                 id="tspan4569-3-1-2-2"
+                 style="font-size:3.17499px;fill:#fffffe;fill-opacity:1;stroke-width:6"
+                 x="22.151207"
+                 y="33.20681">TIN5</tspan><tspan
+                 sodipodi:role="line"
+                 style="font-size:3.17499px;fill:#fffffe;fill-opacity:1;stroke-width:6"
+                 x="22.151207"
+                 y="37.175549"
+                 id="tspan13008" /></text>
+            <rect
+               style="fill:#b440ff;fill-opacity:1;stroke-width:6.04287"
+               id="rect2281-1-4-2-1-4-5-0"
+               width="8.7000008"
+               height="3.6000001"
+               x="21"
+               y="15"
+               ry="0.67507601" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.17499px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#f50000;fill-opacity:1;stroke-width:6"
+               x="22.151207"
+               y="17.966808"
+               id="text4571-7-6-8-2-5-7-3"><tspan
+                 sodipodi:role="line"
+                 style="font-size:3.17499px;fill:#fffffe;fill-opacity:1;stroke-width:6"
+                 x="22.151207"
+                 y="17.966808"
+                 id="tspan13303">INT0</tspan><tspan
+                 sodipodi:role="line"
+                 style="font-size:3.17499px;fill:#fffffe;fill-opacity:1;stroke-width:6"
+                 x="22.151207"
+                 y="21.935545"
+                 id="tspan13008-9-5-2" /></text>
+            <rect
+               style="fill:#ff0000;fill-opacity:1;stroke-width:6.04287"
+               id="rect2281-1-2-4"
+               width="8.7000008"
+               height="3.6000001"
+               x="56.999992"
+               y="34.050003"
+               ry="0.67507601" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.17499px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#f50000;fill-opacity:1;stroke-width:6"
+               x="57.362221"
+               y="37.016815"
+               id="text4571-7-4-8"><tspan
+                 sodipodi:role="line"
+                 id="tspan4569-3-0-3"
+                 style="font-size:3.17499px;fill:#fffffe;fill-opacity:1;stroke-width:6"
+                 x="57.362221"
+                 y="37.016815">RESET</tspan></text>
+            <rect
+               style="fill:#ff7f7f;fill-opacity:1;stroke-width:6.04287"
+               id="rect2281-1-2-4-2"
+               width="8.7000008"
+               height="3.6000001"
+               x="12"
+               y="15"
+               ry="0.67507601" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.17499px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#f50000;fill-opacity:1;stroke-width:6"
+               x="12.362228"
+               y="17.966808"
+               id="text4571-7-4-8-3"><tspan
+                 sodipodi:role="line"
+                 id="tspan4569-3-0-3-0"
+                 style="font-size:3.17499px;fill:#fffffe;fill-opacity:1;stroke-width:6"
+                 x="12.362228"
+                 y="17.966808">VBUS1</tspan></text>
+            <rect
+               style="fill:#ff7f7f;fill-opacity:1;stroke-width:6.04287"
+               id="rect2281-1-2-4-2-8"
+               width="8.7000008"
+               height="3.6000001"
+               x="12"
+               y="18.810003"
+               ry="0.67507601" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.17499px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#f50000;fill-opacity:1;stroke-width:6"
+               x="13.341705"
+               y="21.77681"
+               id="text4571-7-4-8-3-3"><tspan
+                 sodipodi:role="line"
+                 id="tspan4569-3-0-3-0-9"
+                 style="font-size:3.17499px;fill:#fffffe;fill-opacity:1;stroke-width:6"
+                 x="13.341705"
+                 y="21.77681">UCC1</tspan></text>
+            <rect
+               style="fill:#ff7f7f;fill-opacity:1;stroke-width:6.04287"
+               id="rect2281-1-2-4-2-5"
+               width="8.7000008"
+               height="3.6000001"
+               x="12"
+               y="22.620003"
+               ry="0.67507601" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.17499px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#f50000;fill-opacity:1;stroke-width:6"
+               x="13.168668"
+               y="25.586811"
+               id="text4571-7-4-8-3-2"><tspan
+                 sodipodi:role="line"
+                 id="tspan4569-3-0-3-0-2"
+                 style="font-size:3.17499px;fill:#fffffe;fill-opacity:1;stroke-width:6"
+                 x="13.168668"
+                 y="25.586811">UCC2</tspan></text>
+            <rect
+               style="fill:#00beff;fill-opacity:1;stroke-width:6.04287"
+               id="rect2281-1-2-4-2-0"
+               width="8.7000008"
+               height="3.6000001"
+               x="3"
+               y="15"
+               ry="0.67507601" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.17499px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#f50000;fill-opacity:1;stroke-width:6"
+               x="4.1496191"
+               y="17.966808"
+               id="text4571-7-4-8-3-32"><tspan
+                 sodipodi:role="line"
+                 id="tspan4569-3-0-3-0-6"
+                 style="font-size:3.17499px;fill:#fffffe;fill-opacity:1;stroke-width:6"
+                 x="4.1496191"
+                 y="17.966808">AIN3</tspan></text>
+            <rect
+               style="fill:#00beff;fill-opacity:1;stroke-width:6.04287"
+               id="rect2281-1-2-4-2-8-94"
+               width="8.7000008"
+               height="3.6000001"
+               x="3"
+               y="18.810003"
+               ry="0.67507601" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.17499px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#f50000;fill-opacity:1;stroke-width:6"
+               x="4.3417053"
+               y="21.77681"
+               id="text4571-7-4-8-3-3-1"><tspan
+                 sodipodi:role="line"
+                 id="tspan4569-3-0-3-0-9-3"
+                 style="font-size:3.17499px;fill:#fffffe;fill-opacity:1;stroke-width:6"
+                 x="4.3417053"
+                 y="21.77681">AIN1</tspan></text>
+            <rect
+               style="fill:#00beff;fill-opacity:1;stroke-width:6.04287"
+               id="rect2281-1-2-4-2-5-7"
+               width="8.7000008"
+               height="3.6000001"
+               x="3"
+               y="22.620003"
+               ry="0.67507601" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.17499px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#f50000;fill-opacity:1;stroke-width:6"
+               x="4.1686678"
+               y="25.586811"
+               id="text4571-7-4-8-3-2-8"><tspan
+                 sodipodi:role="line"
+                 id="tspan4569-3-0-3-0-2-8"
+                 style="font-size:3.17499px;fill:#fffffe;fill-opacity:1;stroke-width:6"
+                 x="4.1686678"
+                 y="25.586811">AIN2</tspan></text>
+            <rect
+               style="fill:#0000ff;fill-opacity:1;stroke-width:6.04287"
+               id="rect2281-1-3-5"
+               width="8.7000008"
+               height="3.6000001"
+               x="56.999992"
+               y="37.860001"
+               ry="0.67507601" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.17499px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#f50000;fill-opacity:1;stroke-width:6"
+               x="58.31789"
+               y="40.826813"
+               id="text4571-7-17-0"><tspan
+                 sodipodi:role="line"
+                 id="tspan4569-3-9-0"
+                 style="font-size:3.17499px;fill:#fffffe;fill-opacity:1;stroke-width:6"
+                 x="58.31789"
+                 y="40.826813">P3.1</tspan></text>
+            <rect
+               style="fill:#0000ff;fill-opacity:1;stroke-width:6.04287"
+               id="rect2281-1-0-6"
+               width="8.7000008"
+               height="3.6000001"
+               x="56.999992"
+               y="41.670006"
+               ry="0.67507601" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.17499px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#f50000;fill-opacity:1;stroke-width:6"
+               x="58.138504"
+               y="44.636818"
+               id="text4571-7-11-7"><tspan
+                 sodipodi:role="line"
+                 id="tspan4569-3-5-0"
+                 style="font-size:3.17499px;fill:#fffffe;fill-opacity:1;stroke-width:6"
+                 x="58.138504"
+                 y="44.636818">P3.0</tspan></text>
+            <text
+               xml:space="preserve"
+               style="font-weight:bold;font-size:3.96875px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';text-align:start;text-anchor:start;fill:#ff00c6;fill-opacity:1;stroke:none;stroke-width:0.0499999;stroke-dasharray:none;stroke-opacity:1"
+               x="8.2199497"
+               y="41.205215"
+               id="text10557"><tspan
+                 sodipodi:role="line"
+                 id="tspan10555"
+                 style="font-size:3.96875px;fill:#007fba;fill-opacity:1;stroke-width:0.05"
+                 x="8.2199497"
+                 y="41.205215">SOP16</tspan></text>
+          </g>
+        </g>
+        <g
+           id="g1526">
+          <rect
+             style="fill:#0000ff;fill-opacity:1;stroke-width:6.04287"
+             id="rect2281-1-0-4"
+             width="8.7000008"
+             height="3.6000001"
+             x="34.650002"
+             y="48"
+             ry="0.67507601" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.17499px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#f50000;fill-opacity:1;stroke-width:6"
+             x="36.594952"
+             y="50.954109"
+             id="text4571-7-11-74"><tspan
+               sodipodi:role="line"
+               id="tspan4569-3-5-1"
+               style="font-size:3.17499px;fill:#fffffe;fill-opacity:1;stroke-width:6"
+               x="36.594952"
+               y="50.954109">Pin</tspan></text>
+          <rect
+             style="fill:#d07700;fill-opacity:1;stroke-width:6.04287"
+             id="rect2281-3-6-7-8"
+             width="8.7000008"
+             height="3.6000001"
+             x="43.650002"
+             y="48"
+             ry="0.67507601" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.17499px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#f50000;fill-opacity:1;stroke-width:6"
+             x="44.020161"
+             y="50.979507"
+             id="text4571-1-6-9-5"><tspan
+               sodipodi:role="line"
+               id="tspan4569-32-44-9-89"
+               style="font-size:3.17499px;fill:#fffffe;fill-opacity:1;stroke-width:6"
+               x="44.020161"
+               y="50.979507">Timer</tspan></text>
+          <rect
+             style="fill:#ff007f;fill-opacity:1;stroke-width:6.04287"
+             id="rect2281-3-3-0-11-2"
+             width="8.7000008"
+             height="3.6000001"
+             x="70.650002"
+             y="48"
+             ry="0.67507601" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.17499px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#f50000;fill-opacity:1;stroke-width:6"
+             x="71.805969"
+             y="50.966808"
+             id="text4571-1-4-3-98-5"><tspan
+               sodipodi:role="line"
+               id="tspan4569-32-4-66-09-6"
+               style="font-size:3.17499px;fill:#fffffe;fill-opacity:1;stroke-width:6"
+               x="71.805969"
+               y="50.966808">UART</tspan></text>
+          <rect
+             style="fill:#00c196;fill-opacity:1;stroke-width:6.04287"
+             id="rect2281-1-4-2-1-3"
+             width="8.7000008"
+             height="3.6000001"
+             x="88.650002"
+             y="48"
+             ry="0.67507601" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.17499px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#f50000;fill-opacity:1;stroke-width:6"
+             x="89.050323"
+             y="50.954109"
+             id="text4571-7-6-8-2-4"><tspan
+               sodipodi:role="line"
+               id="tspan4569-3-1-2-2-0"
+               style="font-size:3.17499px;fill:#fffffe;fill-opacity:1;stroke-width:6"
+               x="89.050323"
+               y="50.954109">Touch</tspan><tspan
+               sodipodi:role="line"
+               style="font-size:3.17499px;fill:#fffffe;fill-opacity:1;stroke-width:6"
+               x="89.050323"
+               y="54.922848"
+               id="tspan13008-6" /></text>
+          <rect
+             style="fill:#ff7f7f;fill-opacity:1;stroke-width:6.04287"
+             id="rect2281-1-2-4-2-5-0"
+             width="8.7000008"
+             height="3.6000001"
+             x="97.650002"
+             y="48"
+             ry="0.67507601" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.17499px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#f50000;fill-opacity:1;stroke-width:6"
+             x="99.593369"
+             y="50.966808"
+             id="text4571-7-4-8-3-2-4"><tspan
+               sodipodi:role="line"
+               id="tspan4569-3-0-3-0-2-0"
+               style="font-size:3.17499px;fill:#fffffe;fill-opacity:1;stroke-width:6"
+               x="99.593369"
+               y="50.966808">USB</tspan></text>
+          <rect
+             style="fill:#00beff;fill-opacity:1;stroke-width:6.04287"
+             id="rect2281-1-2-4-2-5-7-5"
+             width="8.7000008"
+             height="3.6000001"
+             x="106.65"
+             y="48"
+             ry="0.67507601" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.17499px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#f50000;fill-opacity:1;stroke-width:6"
+             x="108.61559"
+             y="50.979507"
+             id="text4571-7-4-8-3-2-8-6"><tspan
+               sodipodi:role="line"
+               id="tspan4569-3-0-3-0-2-8-85"
+               style="font-size:3.17499px;fill:#fffffe;fill-opacity:1;stroke-width:6"
+               x="108.61559"
+               y="50.979507">ADC</tspan></text>
+          <rect
+             style="fill:#ffbe00;fill-opacity:1;stroke-width:6.04287"
+             id="rect2281-3-6-7-7-9"
+             width="8.7000008"
+             height="3.6000001"
+             x="52.650002"
+             y="48"
+             ry="0.67507601" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.17499px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#f50000;fill-opacity:1;stroke-width:6"
+             x="54.660042"
+             y="50.971569"
+             id="text4571-1-6-9-6-9"><tspan
+               sodipodi:role="line"
+               id="tspan4569-32-44-9-8-3"
+               style="font-size:3.17499px;fill:#fffffe;fill-opacity:1;stroke-width:6"
+               x="54.660042"
+               y="50.971569">SPI</tspan></text>
+          <rect
+             style="fill:#003782;fill-opacity:1;stroke-width:6.04287"
+             id="rect2281-3-3-5-4-7-3"
+             width="8.7000008"
+             height="3.6000001"
+             x="61.650002"
+             y="48"
+             ry="0.67507601" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.17499px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#f50000;fill-opacity:1;stroke-width:6"
+             x="63.563202"
+             y="50.966808"
+             id="text4571-1-4-7-4-7-77"><tspan
+               sodipodi:role="line"
+               id="tspan4569-32-4-6-1-3-3"
+               style="font-size:3.17499px;fill:#fffffe;fill-opacity:1;stroke-width:6"
+               x="63.563202"
+               y="50.966808">PWM</tspan></text>
+          <rect
+             style="fill:#b440ff;fill-opacity:1;stroke-width:6.04287"
+             id="rect2281-1-4-2-1-4-5-0-7"
+             width="8.7000008"
+             height="3.6000001"
+             x="79.650002"
+             y="48"
+             ry="0.67507601" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.17499px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';fill:#f50000;fill-opacity:1;stroke-width:6"
+             x="81.574318"
+             y="50.966808"
+             id="text4571-7-6-8-2-5-7-3-9"><tspan
+               sodipodi:role="line"
+               style="font-size:3.17499px;fill:#fffffe;fill-opacity:1;stroke-width:6"
+               x="81.574318"
+               y="50.966808"
+               id="tspan13303-3">INT</tspan><tspan
+               sodipodi:role="line"
+               style="font-size:3.17499px;fill:#fffffe;fill-opacity:1;stroke-width:6"
+               x="81.574318"
+               y="54.935547"
+               id="tspan13008-9-5-2-8" /></text>
+        </g>
       </g>
     </g>
   </g>
