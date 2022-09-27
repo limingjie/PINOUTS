@@ -56,18 +56,10 @@
     git clone https://github.com/Blinkinlabs/ch554_sdcc.git
     ```
 
-4. Change the Makefile.
-
-   - Find the path of `objcopy`.
-
-    ```shell
-    find /opt/homebrew -name objcopy
-    ```
-
-   - Update Makefile
+4. Update the Makefile.
 
     ```Makefile
-    OBJCOPY = /opt/homebrew/Cellar/binutils/<version>/bin/objcopy
+    OBJCOPY = /opt/homebrew/opt/binutils/bin/objcopy
     WCHISP ?= python3 -m ch55xtool -f
     ```
 
