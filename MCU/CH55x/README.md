@@ -1,8 +1,6 @@
 # CH55x
 
-## CH552G/CH554G
-
-### Pinout
+## CH552G/CH554G Pinout
 
 ![CH552G/CH554G Pinout](CH552G_CH554G_Pinout.png)
 
@@ -36,35 +34,47 @@
 
 [SDCC](https://github.com/Blinkinlabs/ch554_sdcc) and [Arduino](https://github.com/DeqingSun/ch55xduino) are available for CH552 development.
 
-#### SDCC - macOS
+#### Set up SDCC on macOS
 
-```shell
-brew install sdcc
-brew install binutils
-ln -s /usr/local/bin/gobjcopy /usr/local/bin/objcopy
-
-# Install CH55x flash tool
-# https://github.com/MarsTechHAN/ch552tool
-brew install libusb
-python3 -mpip install ch55xtool
-
-git clone https://github.com/Blinkinlabs/ch554_sdcc.git
-cd ch554_sdcc/examples
-make
-```
-
-#### ISP Tool on macOS
-
-1. Use ch55xtool directly
+1. Install `sdcc` and `binutils` (for objcopy).
 
     ```shell
-    python3 -m ch55xtool -f blink.bin
+    brew install sdcc
+    brew install binutils
     ```
 
-2. Replace the WCHISP tool in `ch554_sdcc/examples/Makefile.include`.
+2. Install [CH55x flash tool](https://github.com/MarsTechHAN/ch552tool).
 
-    ```makefile
+    ```shell
+    brew install libusb
+    python3 -mpip install ch55xtool
+    ```
+
+3. Clone [ch554_sdcc](https://github.com/Blinkinlabs/ch554_sdcc).
+
+    ```shell
+    git clone https://github.com/Blinkinlabs/ch554_sdcc.git
+    ```
+
+4. Change the Makefile.
+
+   - Find the path of `objcopy`.
+
+    ```shell
+    find /opt/homebrew -name objcopy
+    ```
+
+   - Update Makefile
+
+    ```Makefile
+    OBJCOPY = /opt/homebrew/Cellar/binutils/<version>/bin/objcopy
     WCHISP ?= python3 -m ch55xtool -f
     ```
 
-    Now, `make flash`.
+5. Build and flash the examples.
+
+   ```shell
+    cd ch554_sdcc/examples
+    make
+    make flash
+    ```
