@@ -62,13 +62,18 @@
 
     ```shell
     brew install libusb
-    python3 -mpip install ch55xtool
+    # Find the python version
+    python3 --version
+    # For example - Python 3.11.2
+    python3.11 -mpip install ch55xtool
     ```
 
     Replace `WCHISP` in `ch554_sdcc/examples/Makefile.include`
 
     ```Makefile
     WCHISP ?= python3 -m ch55xtool -f
+    # Or explicitly point to the python version
+    WCHISP ?= python3.11 -m ch55xtool -f
     ```
 
 4. Build and flash the examples.
