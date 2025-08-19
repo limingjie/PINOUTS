@@ -1,4 +1,11 @@
-# CH55x
+# CH552/CH554
+
+- [CH552/CH554](#ch552ch554)
+  - [CH552G/CH554G Pinout](#ch552gch554g-pinout)
+  - [Development Environment Setup](#development-environment-setup)
+    - [Set up SDCC on macOS](#set-up-sdcc-on-macos)
+  - [CH552/CH554 Documents](#ch552ch554-documents)
+  - [References](#references)
 
 ## CH552G/CH554G Pinout
 
@@ -23,23 +30,18 @@
 |   15 | VCC  |             |      |       |       |       |           |       |       |      | VCC                               |
 |   16 | V33  |             |      |       |       |       |           |       |       |      | V33                               |
 
-### Documents
-
-- [CH552 Datasheet - English](http://www.wch-ic.com/downloads/CH552DS1_PDF.html)
-- [CH552 Datasheet - Chinese](https://www.wch.cn/downloads/CH552DS1_PDF.html)
-- [CH554 Datasheet - English](http://wch-ic.com/downloads/CH554DS1_PDF.html)
-- [CH554 Datasheet - Chinese](https://www.wch.cn/downloads/CH554DS1_PDF.html)
-
-### Development Environment Setup
+## Development Environment Setup
 
 [SDCC](https://github.com/Blinkinlabs/ch554_sdcc) and [Arduino](https://github.com/DeqingSun/ch55xduino) are available for CH552 development.
 
-#### Set up SDCC on macOS
+### Set up SDCC on macOS
 
-1. Install `sdcc` and `binutils` (for objcopy).
+1. Install `sdcc` and `binutils`.
 
     ```shell
     brew install sdcc
+
+    # For objcopy
     brew install binutils
     ```
 
@@ -50,6 +52,13 @@
     /opt/homebrew/opt/binutils/bin
     # macOS x86_64
     /usr/local/opt/binutils/bin
+
+    # Z shell - Add the following lines in zshrc
+    if [[ $(uname -m) == 'arm64' ]]; then                  # macOS arm64
+        path+=('/opt/homebrew/opt/binutils/bin')           # binutils
+    else                                                   # macOS x86_64
+        path+=('/usr/local/opt/binutils/bin')              # binutils
+    fi
     ```
 
 2. Clone [ch554_sdcc](https://github.com/Blinkinlabs/ch554_sdcc).
@@ -61,18 +70,22 @@
 3. Install [CH55x flash tool](https://github.com/MarsTechHAN/ch552tool).
 
     ```shell
+    # Install libusb
     brew install libusb
-    # Find the python version
-    python3 --version
-    # For example - Python 3.11.2
-    python3.11 -mpip install ch55xtool
+
+    # [OPTIONAL] Use Python Virtual Environment
+    python3 -m venv .venv
+    source .venv/bin/activate
+
+    # Install ch55xtool
+    python3 -m pip install ch55xtool
     ```
 
-    Replace `WCHISP` in `ch554_sdcc/examples/Makefile.include`
+    Replace `WCHISP` in `Makefile`
 
     ```Makefile
     WCHISP ?= python3 -m ch55xtool -f
-    # Or explicitly point to the python version
+    # Or explicitly specify the python version
     WCHISP ?= python3.11 -m ch55xtool -f
     ```
 
@@ -84,3 +97,15 @@
     cd blink
     make flash
     ```
+
+## CH552/CH554 Documents
+
+Find in the Documents folder or download from WCH Website.
+
+- CH552 Datasheet - [English](https://wch-ic.com/downloads/CH552DS1_PDF.html) / [Chinese](https://www.wch.cn/downloads/CH552DS1_PDF.html)
+- CH554 Datasheet - [English](https://wch-ic.com/downloads/CH554DS1_PDF.html) / [Chinese](https://www.wch.cn/downloads/CH554DS1_PDF.html)
+
+## References
+
+- [Blink Labs - CH554 SDCC](https://github.com/Blinkinlabs/ch554_sdcc)
+- [Stefan Wagner - CH552 USB OLED](https://github.com/wagiminator/CH552-USB-OLED)
