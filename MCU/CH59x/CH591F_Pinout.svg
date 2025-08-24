@@ -27,8 +27,8 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="2.4330141"
-     inkscape:cx="346.48382"
-     inkscape:cy="181.66767"
+     inkscape:cx="392.72275"
+     inkscape:cy="196.87514"
      inkscape:window-width="2560"
      inkscape:window-height="1387"
      inkscape:window-x="0"
@@ -5126,7 +5126,7 @@
     </g>
     <g
        id="g16"
-       transform="translate(40.65,-11.800005)"
+       transform="translate(40.65,-15.199998)"
        inkscape:label="Legends"
        style="display:inline">
       <rect
@@ -5493,5 +5493,29 @@
          id="tspan7297"><tspan
            style="font-size:11.984px;text-align:center;text-anchor:middle;fill:#007fba;fill-opacity:1;stroke-width:9.0588"
            id="tspan7301">CH591F</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:3px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';text-align:center;text-anchor:middle;fill:#007fba;fill-opacity:1;stroke-width:9.0588"
+       x="95"
+       y="76.233002"
+       id="text7295-8"
+       inkscape:label="Title"><tspan
+         sodipodi:role="line"
+         style="font-size:3px;text-align:center;text-anchor:middle;fill:#007fba;fill-opacity:1;stroke-width:9.0588"
+         x="95"
+         y="76.233002"
+         id="tspan7297-2">QFN28</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:2.6px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';text-align:center;text-anchor:middle;fill:#007fba;fill-opacity:1;stroke-width:9.0588"
+       x="95.002602"
+       y="89.420204"
+       id="text7295-5"
+       inkscape:label="Title"><tspan
+         sodipodi:role="line"
+         style="font-size:2.6px;text-align:center;text-anchor:middle;fill:#007fba;fill-opacity:1;stroke-width:9.0588"
+         x="95.002602"
+         y="89.420204"
+         id="tspan7297-7">32-bit RISC-V4C 20MHz / BLE 5.4 / 256kB Flash / 26kB SRAM / USB Device</tspan></text>
   </g>
 </svg>
