@@ -99,7 +99,7 @@ To program the CH32V003 microcontroller, you will need a programmer that support
 
 If the blue LED on the WCH-LinkE is always on, it is in ARM mode. To program the CH32V003, it needs to be in RISC-V mode. Hold the Modes key while plugging it into the USB port.
 
-![WCH-LinkE Modes](images/WCH-LinkE-Modes.jpg)
+![WCH-LinkE Modes](./Images/WCH-LinkE-Modes.jpg)
 
 ## References
 
