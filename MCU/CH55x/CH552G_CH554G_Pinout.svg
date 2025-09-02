@@ -9,9 +9,9 @@
    id="svg5"
    inkscape:version="1.4.2 (ebf0e940, 2025-05-08)"
    sodipodi:docname="CH552G_CH554G_Pinout.svg"
-   inkscape:export-filename="CH552 Pinout.png"
-   inkscape:export-xdpi="300"
-   inkscape:export-ydpi="300"
+   inkscape:export-filename="CH552G_CH554G_Pinout.png"
+   inkscape:export-xdpi="1200"
+   inkscape:export-ydpi="1200"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -36,7 +36,8 @@
      inkscape:window-y="25"
      inkscape:window-maximized="0"
      inkscape:current-layer="g9134"
-     inkscape:lockguides="false" />
+     inkscape:lockguides="false"
+     inkscape:export-bgcolor="#ffffffff" />
   <defs
      id="defs2">
     <marker
