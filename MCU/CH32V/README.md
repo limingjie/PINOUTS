@@ -4,7 +4,7 @@
   - [Pinout](#pinout)
   - [Development Environments](#development-environments)
     - [Option 1 - MounRiver Studio](#option-1---mounriver-studio)
-    - [Option 2 - ch32vfun](#option-2---ch32vfun)
+    - [Option 2 - ch32fun](#option-2---ch32fun)
       - [Compiling and Uploading (macOS)](#compiling-and-uploading-macos)
       - [Build `minichlink` Utility (macOS)](#build-minichlink-utility-macos)
       - [Unbrick CH32V003J4M6](#unbrick-ch32v003j4m6)
@@ -27,9 +27,9 @@
 
 [MounRiver Studio](http://www.mounriver.com/) is the official WCH development environment. However, it only supports Windows, so I have never tried it since I do not have a Windows environment.
 
-### Option 2 - ch32vfun
+### Option 2 - ch32fun
 
-I started developing for the CH32V003 with [Stefan Wagner's CH32V003 RISC-V Mini Game Console](https://github.com/wagiminator/CH32V003-GameConsole). It is a great experience to begin with Stefan's projects, as there are always clear guides and the projects are self-contained. I then moved to [CNLohr's ch32fun](https://github.com/cnlohr/ch32v003fun), formerly ch32v003fun, as there are many useful examples.
+I started developing for the CH32V003 with [Stefan Wagner's CH32V003 RISC-V Mini Game Console](https://github.com/wagiminator/CH32V003-GameConsole). It is a great experience to begin with Stefan's projects, as there are always clear guides and the projects are self-contained. I then moved to [CNLohr's ch32fun](https://github.com/cnlohr/ch32fun), formerly ch32v003fun, as there are many useful examples.
 
 #### Compiling and Uploading (macOS)
 
@@ -61,8 +61,8 @@ The `minichlink` utility in the `tools` library is built for `x86_64`. If your m
 ```shell
 brew install pkg-config
 brew install libusb
-git clone https://github.com/cnlohr/ch32v003.git
-cd ch32v003/minichlink
+git clone https://github.com/cnlohr/ch32fun.git
+cd ch32fun/minichlink
 make
 ```
 
@@ -85,7 +85,7 @@ The project seems to use the WCH official header files directly. I tried porting
 To program the CH32V003 microcontroller, you will need a programmer that supports SWD.
 
 - The official [WCH-LinkE](https://www.wch-ic.com/products/WCH-Link.html) programmer.
-- Check [CNLohr's ch32v003fun](https://github.com/cnlohr/ch32v003fun) project for other options, such as ESP32S2 and Arduino-based programmers.
+- Check [CNLohr's ch32fun](https://github.com/cnlohr/ch32fun) project for other options, such as ESP32S2 and Arduino-based programmers.
 
 ### Wiring the CH32V003 to WCH-LinkE
 
@@ -104,7 +104,7 @@ If the blue LED on the WCH-LinkE is always on, it is in ARM mode. To program the
 ## References
 
 - [Stefan Wagner: CH32V003 RISC-V Mini Game Console](https://github.com/wagiminator/CH32V003-GameConsole)
-- [CNLohr: ch32v003fun](https://github.com/cnlohr/ch32v003fun)
+- [CNLohr: ch32fun](https://github.com/cnlohr/ch32fun)
 - [RISC-V Software: homebrew-riscv](https://github.com/riscv-software-src/homebrew-riscv)
 
 ## License
