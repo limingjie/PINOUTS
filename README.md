@@ -5,6 +5,7 @@
     - [CH32V003](#ch32v003)
       - [CH32V003J4M6 Pinout](#ch32v003j4m6-pinout)
   - [WCH CH55x Series](#wch-ch55x-series)
+    - [CH552G/CH554G Pinout](#ch552gch554g-pinout)
   - [WCH CH59x Series](#wch-ch59x-series)
     - [CH591F Pinout](#ch591f-pinout)
     - [CH592F Pinout](#ch592f-pinout)
@@ -29,6 +30,8 @@ The timer mapping of the CH32V003 is really complex!
 - CH552 Datasheet - [English](MCU/CH55x/Documents/CH552%20Datasheet%20V1.8%20-%20English.PDF) / [Chinese](MCU/CH55x/Documents/CH552%20Datasheet%20V1.8%20-%20English.PDF) (Official Website: [English](https://wch-ic.com/downloads/CH552DS1_PDF.html) / [Chinese](https://www.wch.cn/downloads/CH552DS1_PDF.html))
 - CH554 Datasheet - [English](MCU/CH55x/Documents/CH554%20Datasheet%20V1.8%20-%20English.PDF) / [Chinese](MCU/CH55x/Documents/CH554%20Datasheet%20V2.1%20-%20Chinese.PDF) (Official Website: [English](https://wch-ic.com/downloads/CH554DS1_PDF.html) / [Chinese](https://www.wch.cn/downloads/CH554DS1_PDF.html))
 - [CH554 Evaluation Board](MCU/CH55x/Documents/CH554EVT.ZIP) ([Official Website](https://www.wch.cn/downloads/CH554EVT_ZIP.html))
+
+### CH552G/CH554G Pinout
 
 ![CH552G/CH554G Pinout](MCU/CH55x/CH552G_CH554G_Pinout.png)
 
