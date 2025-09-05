@@ -21,9 +21,13 @@
 
 ### CH32V003J4M6 Pinout
 
+![CH32V003J4M6 Pinout No Remapping](./CH32V003J4M6_Pinout_No_Remapping.png)
+
 ![CH32V003J4M6 Pinout](./CH32V003J4M6_Pinout.png)
 
 ### CH32V003F4P6 Pinout
+
+![CH32V003F4P6 Pinout No Remapping](./CH32V003F4P6_Pinout_No_Remapping.png)
 
 ![CH32V003F4P6 Pinout](./CH32V003F4P6_Pinout.png)
 
