@@ -7,7 +7,7 @@
   - [WCH Bluetooth Wireless Series](#wch-bluetooth-wireless-series)
     - [CH591F/CH592F Pinouts](#ch591fch592f-pinouts)
   - [WCH 8-bit Enhanced USB MCUs](#wch-8-bit-enhanced-usb-mcus)
-    - [CH552G/CH554G Development Guide](#ch552gch554g-development-guide)
+    - [CH552/CH554 Development Guide](#ch552ch554-development-guide)
     - [CH552/CH554 Pinouts](#ch552ch554-pinouts)
   - [License](#license)
 
@@ -44,9 +44,9 @@
 - CH554 Datasheet - [English](MCU/CH55x/Documents/CH554%20Datasheet%20V1.8%20-%20English.PDF) / [Chinese](MCU/CH55x/Documents/CH554%20Datasheet%20V2.1%20-%20Chinese.PDF) (Official Website: [English](https://wch-ic.com/downloads/CH554DS1_PDF.html) / [Chinese](https://www.wch.cn/downloads/CH554DS1_PDF.html))
 - [CH554 Evaluation Board](MCU/CH55x/Documents/CH554EVT.ZIP) ([Official Website](https://www.wch.cn/downloads/CH554EVT_ZIP.html))
 
-### CH552G/CH554G Development Guide
+### CH552/CH554 Development Guide
 
-[CH552G/CH554G Development Guide](./MCU/CH55x/README.md)
+[CH552/CH554 Development Guide](./MCU/CH55x/README.md)
 
 ### CH552/CH554 Pinouts
 

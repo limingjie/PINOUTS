@@ -5788,13 +5788,13 @@
     <text
        xml:space="preserve"
        style="font-weight:bold;font-size:2.6px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';text-align:center;text-anchor:middle;fill:#007fba;fill-opacity:1;stroke-width:9.0588"
-       x="93.002602"
+       x="93.010399"
        y="88.128204"
        id="text7295-5"
        inkscape:label="Title"><tspan
          sodipodi:role="line"
          style="font-size:2.6px;text-align:center;text-anchor:middle;fill:#222222;fill-opacity:1;stroke-width:9.0588"
-         x="93.002602"
+         x="93.010399"
          y="88.128204"
          id="tspan7297-7">32-bit RISC-V4C 20MHz / BLE 5.4 / 256kB Flash / 26kB SRAM / USB Device / SPI / PWM / UART / ADC</tspan></text>
     <g
