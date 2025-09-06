@@ -8,7 +8,7 @@
     - [CH591F/CH592F Pinouts](#ch591fch592f-pinouts)
   - [WCH 8-bit Enhanced USB MCUs](#wch-8-bit-enhanced-usb-mcus)
     - [CH552G/CH554G Development Guide](#ch552gch554g-development-guide)
-    - [CH552/CH554 Pinout](#ch552ch554-pinout)
+    - [CH552/CH554 Pinouts](#ch552ch554-pinouts)
   - [License](#license)
 
 ## WCH RISC-V Series
@@ -48,7 +48,7 @@
 
 [CH552G/CH554G Development Guide](./MCU/CH55x/README.md)
 
-### CH552/CH554 Pinout
+### CH552/CH554 Pinouts
 
 ![CH55xG_Pinout](MCU/CH55x/CH55xT_Pinout.png)
 ![CH55xT_Pinout](MCU/CH55x/CH55xG_Pinout.png)
