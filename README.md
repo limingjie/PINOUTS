@@ -3,14 +3,12 @@
 - [WCH MCU Pinouts](#wch-mcu-pinouts)
   - [WCH RISC-V Series](#wch-risc-v-series)
     - [CH32V003 Development Guide](#ch32v003-development-guide)
-    - [CH32V003J4M6 Pinout](#ch32v003j4m6-pinout)
-    - [CH32V003F4P6 Pinout](#ch32v003f4p6-pinout)
+    - [CH32V003 Pinouts](#ch32v003-pinouts)
   - [WCH Bluetooth Wireless Series](#wch-bluetooth-wireless-series)
-    - [CH591F Pinout](#ch591f-pinout)
-    - [CH592F Pinout](#ch592f-pinout)
+    - [CH591F/CH592F Pinouts](#ch591fch592f-pinouts)
   - [WCH 8-bit Enhanced USB MCUs](#wch-8-bit-enhanced-usb-mcus)
     - [CH552G/CH554G Development Guide](#ch552gch554g-development-guide)
-    - [CH552G/CH554G Pinout](#ch552gch554g-pinout)
+    - [CH552/CH554 Pinout](#ch552ch554-pinout)
   - [License](#license)
 
 ## WCH RISC-V Series
@@ -23,16 +21,11 @@
 
 [CH32V003 Development Guide](./MCU/CH32V/README.md)
 
-### CH32V003J4M6 Pinout
+### CH32V003 Pinouts
 
 ![CH32V003J4M6 Pinout No Remapping](./MCU/CH32V/CH32V003J4M6_Pinout_No_Remapping.png)
-
 ![CH32V003J4M6 Pinout](./MCU/CH32V/CH32V003J4M6_Pinout.png)
-
-### CH32V003F4P6 Pinout
-
 ![CH32V003F4P6 Pinout No Remapping](./MCU/CH32V/CH32V003F4P6_Pinout_No_Remapping.png)
-
 ![CH32V003F4P6 Pinout](./MCU/CH32V/CH32V003F4P6_Pinout.png)
 
 ## WCH Bluetooth Wireless Series
@@ -40,12 +33,9 @@
 - CH592 Datasheet - [English](MCU/CH59x/Documents/CH592%20Datasheet%20V1.7%20-%20English.PDF) / [Chinese](MCU/CH59x/Documents/CH592%20Datasheet%20V1.8%20-%20Chinese.PDF) (Official Website: [English](https://www.wch-ic.com/downloads/CH592DS1_PDF.html) / [Chinese](https://www.wch.cn/downloads/CH592DS1_PDF.html))
 - [CH592 Evaluation Board](MCU/CH59x/Documents/CH592EVT.ZIP) ([Official Website](https://www.wch.cn/downloads/CH592EVT_ZIP.html))
 
-### CH591F Pinout
+### CH591F/CH592F Pinouts
 
 ![CH591F Pinout](MCU/CH59x/CH591F_Pinout.png)
-
-### CH592F Pinout
-
 ![CH592F Pinout](MCU/CH59x/CH592F_Pinout.png)
 
 ## WCH 8-bit Enhanced USB MCUs
@@ -58,9 +48,11 @@
 
 [CH552G/CH554G Development Guide](./MCU/CH55x/README.md)
 
-### CH552G/CH554G Pinout
+### CH552/CH554 Pinout
 
-![CH552G/CH554G Pinout](MCU/CH55x/CH552G_CH554G_Pinout.png)
+![CH55xG_Pinout](MCU/CH55x/CH55xT_Pinout.png)
+![CH55xT_Pinout](MCU/CH55x/CH55xG_Pinout.png)
+![CH55xE_Pinout](MCU/CH55x/CH55xE_Pinout.png)
 
 ## License
 
@@ -84,6 +76,6 @@ The licensor cannot revoke these freedoms as long as you follow the license term
 
 **Notices:**
 
-You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation .
+You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation.
 
 No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.

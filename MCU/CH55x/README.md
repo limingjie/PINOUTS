@@ -1,35 +1,18 @@
-# CH552/CH554
+# CH552/CH554 Development Guide
 
-- [CH552/CH554](#ch552ch554)
-  - [CH552G/CH554G Pinout](#ch552gch554g-pinout)
+- [CH552/CH554 Development Guide](#ch552ch554-development-guide)
+  - [CH552/CH554 Pinouts](#ch552ch554-pinouts)
   - [Set Up Development Environment](#set-up-development-environment)
     - [Set Up SDCC on macOS](#set-up-sdcc-on-macos)
   - [CH552/CH554 Documents](#ch552ch554-documents)
   - [References](#references)
   - [License](#license)
 
-## CH552G/CH554G Pinout
+## CH552/CH554 Pinouts
 
-![CH552G/CH554G Pinout](CH552G_CH554G_Pinout.png)
-
-|    # | Pin  | Timer       | SPI  | PWM   | UART  | Timer | Interrupt | Touch | USB   | ADC  | From Datasheet                    |
-| ---: | ---- | ----------- | ---- | ----- | ----- | ----- | --------- | ----- | ----- | ---- | --------------------------------- |
-|    1 | P3.2 |             |      |       | TXD1_ |       | INT0      |       | VBUS1 | AIN3 | P3.2/TXD1_/INT0/VBUS1/AIN3        |
-|    2 | P1.4 | T2_/CAP1_   | SCS  |       |       |       |           | TIN2  | UCC1  | AIN1 | P1.4/T2_/CAP1_/SCS/TIN2/UCC1/AIN1 |
-|    3 | P1.5 |             | MOSI | PWM1  |       |       |           | TIN3  | UCC2  | AIN2 | P1.5/MOSI/PWM1/TIN3/UCC2/AIN2     |
-|    4 | P1.6 |             | MISO |       | RXD1  |       |           | TIN4  |       |      | P1.6/MISO/RXD1/TIN4               |
-|    5 | P1.7 |             | SCK  |       | TXD1  |       |           | TIN5  |       |      | P1.7/SCK/TXD1/TIN5                |
-|    6 | RST  | T2EX_/CAP2_ |      |       |       |       |           |       |       |      | RST/T2EX_/CAP2_                   |
-|    7 | P3.1 |             |      | PWM2_ | TXD   |       |           |       |       |      | P3.1/PWM2_/TXD                    |
-|    8 | P3.0 |             |      | PWM1_ | RXD   |       |           |       |       |      | P3.0/PWM1_/RXD                    |
-|    9 | P1.1 | T2EX/CAP2   |      |       |       |       |           | TIN1  | VBUS2 | AIN0 | P1.1/T2EX/CAP2/TIN1/VBUS2/AIN0    |
-|   10 | P3.3 |             |      |       |       |       | INT1      |       |       |      | P3.3/INT1                         |
-|   11 | P3.4 |             |      | PWM2  | RXD1_ | T0    |           |       |       |      | P3.4/PWM2/RXD1_/T0                |
-|   12 | P3.6 |             |      |       |       |       |           |       | UDP   |      | P3.6/UDP                          |
-|   13 | P3.7 |             |      |       |       |       |           |       | UDM   |      | P3.7/UDM                          |
-|   14 | GND  |             |      |       |       |       |           |       |       |      | GND                               |
-|   15 | VCC  |             |      |       |       |       |           |       |       |      | VCC                               |
-|   16 | V33  |             |      |       |       |       |           |       |       |      | V33                               |
+![CH55xG_Pinout](./CH55xT_Pinout.png)
+![CH55xT_Pinout](./CH55xG_Pinout.png)
+![CH55xE_Pinout](./CH55xE_Pinout.png)
 
 ## Set Up Development Environment
 
@@ -132,6 +115,6 @@ The licensor cannot revoke these freedoms as long as you follow the license term
 
 **Notices:**
 
-You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation .
+You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation.
 
 No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.
