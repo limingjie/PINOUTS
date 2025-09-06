@@ -26,15 +26,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="4.5552659"
-     inkscape:cx="460.01705"
-     inkscape:cy="131.05711"
+     inkscape:zoom="2.5269537"
+     inkscape:cx="394.34834"
+     inkscape:cy="177.28857"
      inkscape:window-width="2560"
      inkscape:window-height="1387"
      inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="0"
-     inkscape:current-layer="g20"
+     inkscape:current-layer="layer1"
      showguides="true"
      inkscape:export-bgcolor="#ffffffff" />
   <defs
@@ -197,6 +197,25 @@
          id="arrow1L-5-7-5-1-3-1"
          transform="scale(-0.5)" />
     </marker>
+    <marker
+       style="overflow:visible"
+       id="marker13646-9"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow1L"
+       markerWidth="8.75"
+       markerHeight="5"
+       viewBox="0 0 8.75 5"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path13644-1"
+         transform="scale(-0.5)" />
+    </marker>
   </defs>
   <g
      inkscape:label="Layer 1"
@@ -205,7 +224,7 @@
     <g
        id="g7"
        inkscape:label="CH592F-QFN28-Small"
-       transform="matrix(2.9230348,0,0,2.9230348,106.45869,-47.491314)">
+       transform="matrix(3.4268375,0,0,3.4268375,93.361125,-56.279975)">
       <g
          id="g4"
          inkscape:label="QFN28-Leads"
@@ -2429,7 +2448,7 @@
            id="text4571-5-5-0"><tspan
              sodipodi:role="line"
              id="tspan4569-31-8-18"
-             style="font-size:3.17499px;text-align:start;text-anchor:start;fill:#003366;fill-opacity:1;stroke-width:6"
+             style="font-size:3.17499px;text-align:start;text-anchor:start;fill:#222222;fill-opacity:1;stroke-width:6"
              x="146.92184"
              y="28.166805">32MHz</tspan></text>
         <rect
@@ -5777,7 +5796,7 @@
          style="font-size:2.6px;text-align:center;text-anchor:middle;fill:#222222;fill-opacity:1;stroke-width:9.0588"
          x="93.002602"
          y="88.128204"
-         id="tspan7297-7">32-bit RISC-V4C 20MHz / BLE 5.4 / 256kB Flash / 26kB SRAM / USB Device</tspan></text>
+         id="tspan7297-7">32-bit RISC-V4C 20MHz / BLE 5.4 / 256kB Flash / 26kB SRAM / USB Device / SPI / PWM / UART / ADC</tspan></text>
     <g
        transform="matrix(0.16563014,0,0,0.1656116,89.596112,69.093848)"
        id="g117"
@@ -5912,6 +5931,56 @@
            id="path6365_1_"
            d="m 526.75824,-76.5896 c 2.85266,0 5.26337,0.98395 7.23297,2.95016 1.97046,1.96747 2.95483,4.37604 2.95483,7.22485 0,2.84881 -0.9682,5.23141 -2.90289,7.14825 -2.0556,2.01813 -4.48334,3.02676 -7.28491,3.02676 -2.76752,0 -5.1535,-1.00055 -7.15631,-3.00165 -2.00366,-2.00027 -3.00592,-4.39224 -3.00592,-7.17337 0,-2.78113 1.00226,-5.1897 3.00592,-7.22485 1.95257,-1.9662 4.33771,-2.95015 7.15631,-2.95015 z m -7.87244,7.44159 c -0.30402,0.85834 -0.45557,1.7695 -0.45557,2.73343 0,2.25574 0.82343,4.20532 2.47028,5.85049 1.64685,1.64474 3.60797,2.46735 5.8833,2.46735 2.27527,0 4.25342,-0.83069 5.93433,-2.49289 0.56201,-0.5437 1.02612,-1.13681 1.38971,-1.77972 l -3.83533,-1.70816 c -0.2597,1.29092 -1.4101,2.16205 -2.80066,2.26465 v 1.56897 h -1.16833 v -1.56897 c -1.14105,-0.01318 -2.24463,-0.48026 -3.0885,-1.21854 l 1.40161,-1.41272 c 0.67523,0.63483 1.34967,0.9201 2.27106,0.9201 0.59778,0 1.2594,-0.23334 1.2594,-1.01163 0,-0.27505 -0.1073,-0.46707 -0.27502,-0.61099 l -0.96991,-0.43216 -1.20831,-0.53775 c -0.59778,-0.26608 -1.10364,-0.49091 -1.61115,-0.71741 z m 7.89801,-5.60992 c -2.30939,0 -4.26111,0.81363 -5.85773,2.4422 -0.43433,0.43811 -0.81238,0.89624 -1.13342,1.37439 l 3.88983,1.7316 c 0.35168,-1.07889 1.37695,-1.73373 2.62103,-1.80655 v -1.56894 h 1.16833 v 1.56894 c 0.80469,0.03918 1.68689,0.25974 2.55713,0.93329 l -1.33691,1.37396 c -0.4939,-0.34955 -1.11633,-0.59607 -1.73969,-0.59607 -0.5058,0 -1.21942,0.15497 -1.21942,0.78979 0,0.0975 0.0324,0.18307 0.0911,0.25845 l 1.30115,0.57947 0.88049,0.39255 c 0.56372,0.25122 1.10107,0.48962 1.63409,0.7272 l 5.21399,2.32132 c 0.172,-0.68295 0.258,-1.4093 0.258,-2.17825 0,-2.32428 -0.81488,-4.29047 -2.44391,-5.90115 -1.61364,-1.62858 -3.57476,-2.4422 -5.88409,-2.4422 z" />
       </g>
+    </g>
+    <g
+       id="g17"
+       transform="translate(-7.0000001,2.0853934e-4)">
+      <path
+         sodipodi:nodetypes="ccccccc"
+         inkscape:connector-curvature="0"
+         id="path4424"
+         d="m 58.672176,59 v 0.666667 c -0.555555,0 -0.555555,0.666666 0,0.666666 -0.555556,0 -0.555556,0.666667 0,0.666667 -0.555556,0 -0.555556,0.666667 0,0.666667 -0.555556,0 -0.555556,0.666666 0,0.666666 V 63"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.111111px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0147601;stroke-linecap:square;stroke-linejoin:bevel;stroke-dasharray:0.0442805, 0.0442805;paint-order:fill markers stroke"
+         id="rect11-9-5-1"
+         width="2.0332265"
+         height="0.1"
+         x="58.616772"
+         y="62.950001" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0147601;stroke-linecap:square;stroke-linejoin:bevel;stroke-dasharray:0.0442805, 0.0442805;paint-order:fill markers stroke"
+         id="rect11-9-5-1-5"
+         width="2.0332265"
+         height="0.1"
+         x="58.616772"
+         y="59" />
+      <path
+         style="fill:#196767;stroke:#000000;stroke-width:0.0994842;stroke-linecap:square;stroke-linejoin:bevel;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#marker13646-9);paint-order:fill markers stroke"
+         d="m 58.821359,18.999993 h 1.778899 v 0"
+         id="path3-3" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.17499px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';text-align:center;text-anchor:middle;fill:#f50000;fill-opacity:1;stroke-width:6"
+         x="50.902657"
+         y="62.166809"
+         id="text4571-5-5-9-4-8"><tspan
+           sodipodi:role="line"
+           id="tspan4569-31-8-1-78-5"
+           style="font-size:3.17499px;text-align:center;text-anchor:middle;fill:#222222;fill-opacity:1;stroke-width:6"
+           x="50.902657"
+           y="62.166809">4.7-22µH</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.17499px;font-family:'Iosevka Term Curly';-inkscape-font-specification:'Iosevka Term Curly Bold';text-align:center;text-anchor:middle;fill:#f50000;fill-opacity:1;stroke-width:6"
+         x="53.258499"
+         y="20.166809"
+         id="text4571-5-5-9-4-8-3"><tspan
+           sodipodi:role="line"
+           id="tspan4569-31-8-1-78-5-5"
+           style="font-size:3.17499px;text-align:center;text-anchor:middle;fill:#222222;fill-opacity:1;stroke-width:6"
+           x="53.258499"
+           y="20.166809">VDCID</tspan></text>
     </g>
   </g>
 </svg>
